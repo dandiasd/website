@@ -20,13 +20,13 @@ const workflowSteps = [
   },
   {
     icon: <Handshake size={24} />,
-    title: "Meeting (Jika Diperlukan)",
-    description: "Meeting dilakukan via Google Meet atau Zoom untuk mendalami detail kebutuhan, menunjukkan demo, dan memastikan visi kami selaras dengan bisnis Anda.",
+    title: "Meeting & Diskusi Detail",
+    description: "Meeting via Google Meet untuk mendalami kebutuhan bisnis, membahas workflow, menunjukkan demo, dan menyamakan visi sebelum masuk ke tahap development.",
   },
   {
     icon: <FileText size={24} />,
-    title: "Proposal & Detail Project",
-    description: "Anda menerima proposal lengkap berisi: scope pekerjaan, timeline, teknologi yang digunakan, dan penawaran harga. Semuanya transparan, tidak ada biaya tersembunyi.",
+    title: "Proposal & Deal",
+    description: "Anda menerima proposal lengkap: scope, timeline, teknologi, dan penawaran harga. Setelah disetujui dan deal di tahap ini, saya mulai design prototype.",
   },
   {
     icon: <Palette size={24} />,
@@ -70,13 +70,13 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <ScrollReveal>
             <h1 className="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 leading-tight">
-              Saya bantu bisnis Anda
+              Sistem yang membantu
               <br />
-              berkembang lewat <span className="text-amber-500">teknologi</span>
+              bisnis Anda <span className="text-amber-500">berkembang</span>
             </h1>
             <p className="mt-6 text-lg md:text-xl text-slate-500 max-w-2xl mx-auto leading-relaxed">
-              Saya Dandi — software engineer yang fokus membuat custom web application
-              untuk membantu bisnis kecil berjalan lebih efisien dan profesional.
+              Kembangkan aplikasi web custom untuk operasional bisnis kecil Anda —
+              mulai dari company profile, sistem stok, booking, sampai dashboard manajemen.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
               <a
