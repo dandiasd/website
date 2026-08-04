@@ -5,6 +5,7 @@ import SectionHeading from "@/components/SectionHeading";
 import ServiceCard from "@/components/ServiceCard";
 import StatsBar from "@/components/StatsBar";
 import WorkflowStep from "@/components/WorkflowStep";
+import TrackedWhatsAppLink from "@/components/TrackedWhatsAppLink";
 import { MessageCircle, Search, Handshake, FileText, Palette, Rocket } from "lucide-react";
 
 const workflowSteps = [
@@ -79,14 +80,13 @@ export default function Home() {
               mulai dari company profile, sistem stok, booking, sampai dashboard manajemen.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
-              <a
-                href="https://wa.me/6281316203008?text=Halo%20saya%20tertarik%20dengan%20jasa%20Anda"
-                target="_blank"
-                rel="noopener noreferrer"
+              <TrackedWhatsAppLink
+                ctaLabel="Konsultasi Gratis"
+                ctaLocation="home_hero"
                 className="inline-flex items-center gap-2 bg-amber-500 text-slate-900 px-6 py-3 rounded-xl text-base font-semibold hover:bg-amber-400 transition-colors duration-200 shadow-sm hover:shadow-md"
               >
                 Konsultasi Gratis
-              </a>
+              </TrackedWhatsAppLink>
               <a
                 href="/portfolio"
                 className="inline-flex items-center gap-2 bg-white text-slate-900 px-6 py-3 rounded-xl text-base font-semibold border border-slate-200 hover:bg-slate-50 transition-colors duration-200"
@@ -149,14 +149,13 @@ export default function Home() {
             <p className="mt-3 text-lg text-slate-500 max-w-xl mx-auto">
               Konsultasi gratis tanpa kewajiban. Ceritain kebutuhan bisnis Anda, saya bantu cari solusi teknisnya.
             </p>
-            <a
-              href="https://wa.me/6281316203008?text=Halo%20saya%20tertarik%20dengan%20jasa%20Anda"
-              target="_blank"
-              rel="noopener noreferrer"
+            <TrackedWhatsAppLink
+              ctaLabel="Chat via WhatsApp"
+              ctaLocation="home_final_cta"
               className="mt-6 inline-flex items-center gap-2 bg-amber-500 text-slate-900 px-8 py-3.5 rounded-xl text-base font-semibold hover:bg-amber-400 transition-colors duration-200 shadow-sm hover:shadow-md"
             >
               Chat via WhatsApp
-            </a>
+            </TrackedWhatsAppLink>
           </ScrollReveal>
         </div>
       </section>

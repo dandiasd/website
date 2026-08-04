@@ -1,5 +1,6 @@
 import ScrollReveal from "@/components/ScrollReveal";
 import SectionHeading from "@/components/SectionHeading";
+import TrackedWhatsAppLink from "@/components/TrackedWhatsAppLink";
 import { MessageCircle, Globe, Music, GitBranch, Clock, Shield, Mail, HelpCircle } from "lucide-react";
 
 const faqs = [
@@ -32,15 +33,14 @@ export default function Contact() {
           />
 
           <ScrollReveal>
-            <a
-              href="https://wa.me/6281316203008?text=Halo%20saya%20tertarik%20dengan%20jasa%20Anda"
-              target="_blank"
-              rel="noopener noreferrer"
+            <TrackedWhatsAppLink
+              ctaLabel="Chat via WhatsApp"
+              ctaLocation="contact_hero"
               className="inline-flex items-center gap-3 bg-amber-500 text-slate-900 px-8 py-4 rounded-2xl text-lg font-semibold hover:bg-amber-400 transition-all duration-200 shadow-sm hover:shadow-md"
             >
               <MessageCircle size={24} />
               Chat via WhatsApp
-            </a>
+            </TrackedWhatsAppLink>
             <p className="mt-4 text-sm text-slate-400">
               Respon dalam 1-24 jam
             </p>

@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { Menu, X, ExternalLink } from "lucide-react";
+import TrackedWhatsAppLink from "./TrackedWhatsAppLink";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -10,8 +11,6 @@ const navLinks = [
   { href: "/portfolio", label: "Portofolio" },
   { href: "/contact", label: "Kontak" },
 ];
-
-const WA_URL = "https://wa.me/6281316203008?text=Halo%20saya%20tertarik%20dengan%20jasa%20Anda";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -40,14 +39,13 @@ export default function Navbar() {
             ))}
           </nav>
 
-          <a
-            href={WA_URL}
-            target="_blank"
-            rel="noopener noreferrer"
+          <TrackedWhatsAppLink
+            ctaLabel="Chat WA"
+            ctaLocation="navbar_desktop"
             className="hidden md:inline-flex items-center gap-2 bg-amber-500 text-slate-900 px-4 py-2 rounded-xl text-sm font-semibold hover:bg-amber-400 transition-colors duration-200"
           >
             Chat WA <ExternalLink size={14} />
-          </a>
+          </TrackedWhatsAppLink>
 
           <button
             onClick={() => setIsOpen(!isOpen)}
@@ -72,14 +70,13 @@ export default function Navbar() {
                 {link.label}
               </Link>
             ))}
-            <a
-              href={WA_URL}
-              target="_blank"
-              rel="noopener noreferrer"
+            <TrackedWhatsAppLink
+              ctaLabel="Chat WA"
+              ctaLocation="navbar_mobile"
               className="flex items-center justify-center gap-2 bg-amber-500 text-slate-900 px-4 py-3 rounded-xl text-sm font-semibold hover:bg-amber-400 transition-colors duration-200 w-full"
             >
               Chat WA <ExternalLink size={14} />
-            </a>
+            </TrackedWhatsAppLink>
           </div>
         </div>
       )}

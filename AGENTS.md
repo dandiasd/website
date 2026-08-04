@@ -3,3 +3,9 @@
 
 This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
 <!-- END:nextjs-agent-rules -->
+
+## Product analytics
+
+- PostHog is client-side only and starts in `src/instrumentation-client.ts`; it must remain compatible with static export, so do not add API routes, `posthog-node`, or Next rewrites for analytics.
+- Analytics is off until `NEXT_PUBLIC_POSTHOG_PROJECT_TOKEN` is provided at build time. Keep tokens out of Git and never send personally identifying data or WhatsApp message contents as event properties.
+- Use `TrackedWhatsAppLink` for WhatsApp CTAs and `captureAnalyticsEvent` for other intentional product events.

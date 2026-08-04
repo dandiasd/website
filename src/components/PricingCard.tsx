@@ -1,4 +1,5 @@
 import { Check } from "lucide-react";
+import TrackedWhatsAppLink from "./TrackedWhatsAppLink";
 
 interface PricingCardProps {
   name: string;
@@ -39,10 +40,11 @@ export default function PricingCard({
           </li>
         ))}
       </ul>
-      <a
-        href="https://wa.me/6281316203008?text=Halo%20saya%20tertarik%20dengan%20paket%20layanan%20Anda"
-        target="_blank"
-        rel="noopener noreferrer"
+      <TrackedWhatsAppLink
+        ctaLabel={ctatext}
+        ctaLocation="pricing_card"
+        message="Halo saya tertarik dengan paket layanan Anda"
+        plan={name.toLowerCase()}
         className={`block text-center py-2.5 rounded-xl text-sm font-semibold transition-colors duration-200 cursor-pointer ${
           highlighted
             ? "bg-amber-500 text-slate-900 hover:bg-amber-400"
@@ -50,7 +52,7 @@ export default function PricingCard({
         }`}
       >
         {ctatext}
-      </a>
+      </TrackedWhatsAppLink>
     </div>
   );
 }

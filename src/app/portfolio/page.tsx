@@ -4,6 +4,8 @@ import { useState } from "react";
 import SectionHeading from "@/components/SectionHeading";
 import ProjectCard from "@/components/ProjectCard";
 import VideoModal from "@/components/VideoModal";
+import TrackedWhatsAppLink from "@/components/TrackedWhatsAppLink";
+import { captureAnalyticsEvent } from "@/lib/analytics";
 
 const projects = [
   {
@@ -29,6 +31,16 @@ const projects = [
 export default function Portfolio() {
   const [selectedProject, setSelectedProject] = useState<number | null>(null);
 
+  const openProjectDemo = (index: number) => {
+    const project = projects[index];
+
+    captureAnalyticsEvent("portfolio demo opened", {
+      project_name: project.title,
+      project_position: index + 1,
+    });
+    setSelectedProject(index);
+  };
+
   return (
     <>
       <section className="py-20 md:py-28">
@@ -44,7 +56,7 @@ export default function Portfolio() {
                 key={proj.title}
                 {...proj}
                 index={i}
-                onPlay={() => setSelectedProject(i)}
+                onPlay={() => openProjectDemo(i)}
               />
             ))}
           </div>
@@ -53,14 +65,14 @@ export default function Portfolio() {
             <p className="text-slate-500 mb-4">
               Tertarik bikin project serupa?
             </p>
-            <a
-              href="https://wa.me/6281316203008?text=Halo%20saya%20tertarik%20dengan%20jasa%20Anda%20dan%20ingin%20diskusi%20tentang%20project"
-              target="_blank"
-              rel="noopener noreferrer"
+            <TrackedWhatsAppLink
+              ctaLabel="Diskusi Project Anda"
+              ctaLocation="portfolio_final_cta"
+              message="Halo saya tertarik dengan jasa Anda dan ingin diskusi tentang project"
               className="inline-flex items-center gap-2 bg-amber-500 text-slate-900 px-6 py-3 rounded-xl text-base font-semibold hover:bg-amber-400 transition-colors duration-200 shadow-sm hover:shadow-md"
             >
               Diskusi Project Anda
-            </a>
+            </TrackedWhatsAppLink>
           </div>
         </div>
       </section>
