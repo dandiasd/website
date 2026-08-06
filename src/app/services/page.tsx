@@ -28,7 +28,7 @@ const services = [
 const pricingPlans = [
   {
     name: "Basic",
-    price: "Mulai Rp 800rb",
+    price: "Mulai Rp 350rb",
     description: "Cocok buat company profile website atau landing page",
     features: [
       "3-7 halaman responsive",
@@ -40,7 +40,7 @@ const pricingPlans = [
   },
   {
     name: "Pro",
-    price: "Mulai Rp 5jt",
+    price: "Mulai Rp 1.5jt",
     description: "Cocok buat aplikasi manajemen bisnis",
     features: [
       "Custom web application",
@@ -55,7 +55,9 @@ const pricingPlans = [
   },
   {
     name: "Enterprise",
-    price: "Mulai Rp 10jt",
+    price: "Hubungi Kami",
+    priceSuffix: "",
+    ctatext: "Konsultasi",
     description: "Cocok buat sistem kompleks berskala besar",
     features: [
       "Full-stack custom system",

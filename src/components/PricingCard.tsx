@@ -8,6 +8,7 @@ interface PricingCardProps {
   features: string[];
   highlighted?: boolean;
   ctatext?: string;
+  priceSuffix?: string;
 }
 
 export default function PricingCard({
@@ -17,6 +18,7 @@ export default function PricingCard({
   features,
   highlighted,
   ctatext = "Pilih Paket",
+  priceSuffix = "/project",
 }: PricingCardProps) {
   return (
     <div
@@ -30,7 +32,9 @@ export default function PricingCard({
       <p className={`text-sm mb-4 ${highlighted ? "text-slate-400" : "text-slate-500"}`}>{description}</p>
       <p className="font-heading text-3xl font-bold mb-6">
         {price}
-        <span className={`text-sm font-normal ${highlighted ? "text-slate-400" : "text-slate-500"}`}> /project</span>
+        {priceSuffix && (
+          <span className={`text-sm font-normal ${highlighted ? "text-slate-400" : "text-slate-500"}`}> {priceSuffix}</span>
+        )}
       </p>
       <ul className="space-y-3 mb-6">
         {features.map((f) => (
