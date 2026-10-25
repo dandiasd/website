@@ -47,6 +47,18 @@ Tracked events:
 
 - `$pageview` and `$pageleave` for visits, page counts, and page journeys.
 - `whatsapp cta clicked`, with CTA location and selected plan when applicable.
-- `portfolio demo opened`, with project name and position.
+- `portfolio demo opened`, with project name and position; demos from the "Demo Sistem" gallery also carry `demo_slug` and `section: "demo_sistem"`.
 
 Use PostHog Web Analytics for visitors and top pages, User Paths for journeys such as `/` → `/portfolio` → WhatsApp CTA, and a funnel from `$pageview` on `/` to `whatsapp cta clicked` for conversion. The implementation intentionally disables broad autocapture, session replay, heatmaps, and person profiles; do not send visitor input, chat text, or other personal data as an event property.
+
+## Demo Sistem gallery
+
+The "Demo Sistem" section on `/portfolio` is generated from the demo screenshots, not hand-written. After a new demo is ready in `_studio/DEMOS.md`, run:
+
+```bash
+node scripts/publish-demos.mjs   # needs cwebp (brew install webp)
+```
+
+It rewrites `public/demos/<slug>/` (full images, `t/` 160px thumbnails, `cover.webp` 640px) and `src/data/demos.json` (name, niche, tagline, about, features, platform, images) for every `demo/` row with status `existing`, `ready`, `recorded` or `posted`, then commit both. Images come from each demo's `docs/screenshots/` (`*-desktop.png` up to 8, `flow-*.png` spread evenly up to 10 without the hp/tablet/layar variants, `*-mobile.png` up to 3, or `*-android.png` up to 10). Features come from the bold rows of the "Video tur fitur" table in `docs/DEMO_SCRIPT.md` (voice-over column as the description); demos with fewer than 10 images get extra frames (up to 12 total) picked from their video recording (`video/fitur/raw/frames`, one settled frame per distinct screen); demos with no screenshots at all are skipped, and demos without that table just show no feature list.
+
+Demos whose `DEMOS.md` row has no agent note (the old kos, laundry, order-produksi) get their name and tagline from `scripts/demo-overrides.json`; add an entry there for any new demo that shows a generic name.

@@ -1,0 +1,14 @@
+{
+  "kos": {
+    "name": "RumaKos",
+    "tagline": "Kamar kosong, check-in penghuni, tagihan bulanan, dan reminder WA"
+  },
+  "laundry": {
+    "name": "Segara Laundry",
+    "tagline": "Kasir sampai nota QR, status cucian per tahap, member & kuota, dan WA otomatis ke pelanggan"
+  },
+  "order-produksi": {
+    "name": "Flowly",
+    "tagline": "Papan order, jadwal produksi, stok bahan, dan keuangan"
+  }
+}

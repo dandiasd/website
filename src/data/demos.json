@@ -1,0 +1,1875 @@
+[
+  {
+    "slug": "kos",
+    "name": "RumaKos",
+    "niche": "Kos-kosan",
+    "tagline": "Kamar kosong, check-in penghuni, tagihan bulanan, dan reminder WA",
+    "about": "Aplikasi web manajemen kos-kosan untuk RumaKos, mencakup kamar kosong, check-in penghuni, tagihan bulanan, dan reminder WA.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat kamar yang terisi, sisa tagihan, uang masuk bulan ini, sampai siapa yang telat bayar."
+      },
+      {
+        "title": "Kamar & check-in",
+        "text": "Kamar kosong kelihatan sekali klik. Penghuni baru tinggal check-in, kamarnya langsung berubah jadi terisi."
+      },
+      {
+        "title": "Tagihan & pembayaran",
+        "text": "Semua tagihan bulanan kecatat, yang telat langsung ketahuan. Penghuni transfer, tinggal catat, sisa tagihannya kehitung sendiri."
+      },
+      {
+        "title": "Reminder tagihan WA",
+        "text": "Yang belum bayar tinggal diingetin. Pesannya udah jadi, lengkap sama nominal dan jatuh temponya, terus masuk ke riwayat chat."
+      },
+      {
+        "title": "Keluhan penghuni",
+        "text": "Keluhan penghuni masuk ke satu daftar, kelihatan mana yang baru, lagi dikerjain, atau udah beres."
+      },
+      {
+        "title": "Keuangan",
+        "text": "Uang sewa yang masuk, biaya operasional, sampai selisih kasnya kerekap tiap bulan."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/kos/cover.webp",
+    "images": [
+      "/demos/kos/01-home-desktop.webp",
+      "/demos/kos/02-layar-1.webp",
+      "/demos/kos/03-layar-2.webp",
+      "/demos/kos/04-layar-3.webp",
+      "/demos/kos/05-layar-4.webp",
+      "/demos/kos/06-layar-5.webp",
+      "/demos/kos/07-layar-6.webp",
+      "/demos/kos/08-layar-7.webp",
+      "/demos/kos/09-layar-8.webp",
+      "/demos/kos/10-layar-9.webp",
+      "/demos/kos/11-layar-10.webp",
+      "/demos/kos/12-home-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/kos/t/01-home-desktop.webp",
+      "/demos/kos/t/02-layar-1.webp",
+      "/demos/kos/t/03-layar-2.webp",
+      "/demos/kos/t/04-layar-3.webp",
+      "/demos/kos/t/05-layar-4.webp",
+      "/demos/kos/t/06-layar-5.webp",
+      "/demos/kos/t/07-layar-6.webp",
+      "/demos/kos/t/08-layar-7.webp",
+      "/demos/kos/t/09-layar-8.webp",
+      "/demos/kos/t/10-layar-9.webp",
+      "/demos/kos/t/11-layar-10.webp",
+      "/demos/kos/t/12-home-mobile.webp"
+    ]
+  },
+  {
+    "slug": "laundry",
+    "name": "Segara Laundry",
+    "niche": "Laundry kiloan/satuan",
+    "tagline": "Kasir sampai nota QR, status cucian per tahap, member & kuota, dan WA otomatis ke pelanggan",
+    "about": "Aplikasi web manajemen laundry kiloan/satuan untuk Segara Laundry, mencakup kasir sampai nota QR, status cucian per tahap, member & kuota, dan WA otomatis ke pelanggan.",
+    "features": [
+      {
+        "title": "Overview pemilik",
+        "text": "Begitu buka, pemilik langsung lihat omzet hari ini, order aktif, yang siap diambil, sampai cucian yang telat atau nginep."
+      },
+      {
+        "title": "Kasir sampai nota QR",
+        "text": "Di kasir, ketik nama pelanggan langsung ketahuan dia member apa, poinnya, sampai sisa kuota paketnya. Pilih layanan, bayar potong kuota, nota sama label QR langsung jadi, dan kekirim ke WA pelanggan."
+      },
+      {
+        "title": "Status cucian per tahap",
+        "text": "Order tadi langsung masuk antrean. Semua cucian kepantau per tahap, yang telat sama yang nginep langsung ketandai. Begitu dipindah ke siap, pelanggan otomatis dapat WA."
+      },
+      {
+        "title": "WA otomatis ke pelanggan",
+        "text": "Nota dan tiap perubahan status otomatis jadi pesan WA ke pelanggan. Jadi gak ada lagi yang nanya, kak udah selesai belum?"
+      },
+      {
+        "title": "Member, poin & kuota",
+        "text": "Data member lengkap: tier, poin, saldo deposit, sisa kuota paket, sampai riwayat cuciannya. Mau kirim promo? Sekali klik lewat WA."
+      },
+      {
+        "title": "Tagihan klien B2B",
+        "text": "Langganan hotel atau salon ditagih per rekap. Piutang yang mau jatuh tempo kelihatan, ngingetinnya sekali klik lewat WA."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP. Kurir konfirmasi jemput antar langsung dari HP-nya, pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/laundry/cover.webp",
+    "images": [
+      "/demos/laundry/01-home-desktop.webp",
+      "/demos/laundry/02-flow-01-kasir-isi.webp",
+      "/demos/laundry/03-flow-02-nota.webp",
+      "/demos/laundry/04-flow-03-operasional.webp",
+      "/demos/laundry/05-flow-04-chat.webp",
+      "/demos/laundry/06-flow-05-kurir-bukti.webp",
+      "/demos/laundry/07-flow-06-laporan.webp",
+      "/demos/laundry/08-layar-1.webp",
+      "/demos/laundry/09-layar-2.webp",
+      "/demos/laundry/10-layar-3.webp",
+      "/demos/laundry/11-layar-4.webp",
+      "/demos/laundry/12-home-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/laundry/t/01-home-desktop.webp",
+      "/demos/laundry/t/02-flow-01-kasir-isi.webp",
+      "/demos/laundry/t/03-flow-02-nota.webp",
+      "/demos/laundry/t/04-flow-03-operasional.webp",
+      "/demos/laundry/t/05-flow-04-chat.webp",
+      "/demos/laundry/t/06-flow-05-kurir-bukti.webp",
+      "/demos/laundry/t/07-flow-06-laporan.webp",
+      "/demos/laundry/t/08-layar-1.webp",
+      "/demos/laundry/t/09-layar-2.webp",
+      "/demos/laundry/t/10-layar-3.webp",
+      "/demos/laundry/t/11-layar-4.webp",
+      "/demos/laundry/t/12-home-mobile.webp"
+    ]
+  },
+  {
+    "slug": "order-produksi",
+    "name": "Flowly",
+    "niche": "Order produksi custom",
+    "tagline": "Papan order, jadwal produksi, stok bahan, dan keuangan",
+    "about": "Aplikasi web manajemen order produksi custom untuk Flowly, mencakup papan order, jadwal produksi, stok bahan, dan keuangan.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat order aktif, nilai order, piutang yang belum ketagih, sampai estimasi profit. Order yang mepet deadline naik paling atas."
+      },
+      {
+        "title": "Papan order",
+        "text": "Semua order kebagi per tahap, dari order masuk, DP, produksi, sampai siap kirim. Klik satu order, kelihatan nilai, DP, HPP, sampai untungnya. Pindah tahap cukup sekali klik."
+      },
+      {
+        "title": "Jadwal produksi",
+        "text": "Jadwal produksi harian lengkap sama PIC-nya, plus kapasitas minggu ini, jadi ketahuan kapan slot produksi udah padat."
+      },
+      {
+        "title": "Stok bahan",
+        "text": "Stok bahan kayak kain, benang, sampai tinta kepantau. Yang menipis atau habis langsung ketahuan, lengkap sama riwayat pemakaiannya."
+      },
+      {
+        "title": "Data pelanggan",
+        "text": "Data pelanggan nyimpen riwayat order sama piutangnya, jadi pas repeat order gak mulai dari nol."
+      },
+      {
+        "title": "Keuangan",
+        "text": "Uang masuk, pengeluaran, profit bersih, sama piutang kerangkum otomatis. Gak perlu rekap buku kas tiap akhir bulan."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau produksi dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/order-produksi/cover.webp",
+    "images": [
+      "/demos/order-produksi/01-home-desktop.webp",
+      "/demos/order-produksi/02-layar-1.webp",
+      "/demos/order-produksi/03-layar-2.webp",
+      "/demos/order-produksi/04-layar-3.webp",
+      "/demos/order-produksi/05-layar-4.webp",
+      "/demos/order-produksi/06-layar-5.webp",
+      "/demos/order-produksi/07-layar-6.webp",
+      "/demos/order-produksi/08-home-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/order-produksi/t/01-home-desktop.webp",
+      "/demos/order-produksi/t/02-layar-1.webp",
+      "/demos/order-produksi/t/03-layar-2.webp",
+      "/demos/order-produksi/t/04-layar-3.webp",
+      "/demos/order-produksi/t/05-layar-4.webp",
+      "/demos/order-produksi/t/06-layar-5.webp",
+      "/demos/order-produksi/t/07-layar-6.webp",
+      "/demos/order-produksi/t/08-home-mobile.webp"
+    ]
+  },
+  {
+    "slug": "sembako",
+    "name": "Sembada Grosir",
+    "niche": "Toko sembako & grosir",
+    "tagline": "Kasbon pelanggan, stok, harga grosir vs eceran",
+    "about": "Aplikasi web manajemen toko sembako & grosir untuk Sembada Grosir, mencakup kasbon pelanggan, stok, harga grosir vs eceran.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat omzet sama laba hari ini, kasbon yang telat, stok yang harus diisi, sampai daftar yang perlu ditindak."
+      },
+      {
+        "title": "Kasir harga grosir",
+        "text": "Di kasir, harga partai sama harga peti atau dus keluar sendiri, kasir gak perlu hafal. Pelanggan langganan bisa kasbon, limitnya dicek otomatis."
+      },
+      {
+        "title": "Buku kasbon",
+        "text": "Buku kasbon gak bakal hilang lagi. Sisa, limit, sama jatuh tempo tiap pelanggan kecatat. Yang telat langsung kelihatan, nagihnya sekali klik."
+      },
+      {
+        "title": "Chat WA pelanggan",
+        "text": "Tagihannya masuk WA pelanggan, rinci per nota. Struk sama konfirmasi bayar juga lewat sini, balasan pelanggan langsung kelihatan."
+      },
+      {
+        "title": "Stok & harga",
+        "text": "Stok kepantau terus, yang menipis atau habis langsung ketahuan. Modal dari agen naik? Harga jual barunya dihitungin, margin tetap aman."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau toko dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/sembako/cover.webp",
+    "images": [
+      "/demos/sembako/01-ringkasan-desktop.webp",
+      "/demos/sembako/02-chat-desktop.webp",
+      "/demos/sembako/03-kasbon-desktop.webp",
+      "/demos/sembako/04-kasir-desktop.webp",
+      "/demos/sembako/05-stok-desktop.webp",
+      "/demos/sembako/06-flow-03-kasir-kasbon.webp",
+      "/demos/sembako/07-flow-04-struk.webp",
+      "/demos/sembako/08-flow-07-drawer-tagih.webp",
+      "/demos/sembako/09-flow-09-chat-joko.webp",
+      "/demos/sembako/10-flow-11-drawer-lancar.webp",
+      "/demos/sembako/11-flow-12-modal-harga.webp",
+      "/demos/sembako/12-ringkasan-mobile.webp",
+      "/demos/sembako/13-chat-mobile.webp",
+      "/demos/sembako/14-kasbon-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/sembako/t/01-ringkasan-desktop.webp",
+      "/demos/sembako/t/02-chat-desktop.webp",
+      "/demos/sembako/t/03-kasbon-desktop.webp",
+      "/demos/sembako/t/04-kasir-desktop.webp",
+      "/demos/sembako/t/05-stok-desktop.webp",
+      "/demos/sembako/t/06-flow-03-kasir-kasbon.webp",
+      "/demos/sembako/t/07-flow-04-struk.webp",
+      "/demos/sembako/t/08-flow-07-drawer-tagih.webp",
+      "/demos/sembako/t/09-flow-09-chat-joko.webp",
+      "/demos/sembako/t/10-flow-11-drawer-lancar.webp",
+      "/demos/sembako/t/11-flow-12-modal-harga.webp",
+      "/demos/sembako/t/12-ringkasan-mobile.webp",
+      "/demos/sembako/t/13-chat-mobile.webp",
+      "/demos/sembako/t/14-kasbon-mobile.webp"
+    ]
+  },
+  {
+    "slug": "depot-air",
+    "name": "Sendang Jernih",
+    "niche": "Depot air minum isi ulang",
+    "tagline": "Order galon via WA, antar kurir, deposit galon",
+    "about": "Aplikasi HP manajemen depot air minum isi ulang untuk Sendang Jernih, mencakup order galon via WA, antar kurir, deposit galon.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Pemilik langsung lihat galon terjual, omzet, galon yang masih di pelanggan, sama apa aja yang harus ditindak."
+      },
+      {
+        "title": "Order dari chat WA",
+        "text": "Chat pelanggan yang isinya pesanan langsung kebaca. Sekali tap jadi order, kurir dapet rute, pelanggan dapet balasan."
+      },
+      {
+        "title": "HP kurir: rute & serah terima",
+        "text": "Di HP kurir, order tadi udah masuk rute. Galon kosong yang dibalikin dicatat, kalau lewat batas sistem langsung minta jaminan."
+      },
+      {
+        "title": "Lacak galon di pelanggan",
+        "text": "Tiap galon ketahuan ada di mana. Yang nyangkut kelamaan tinggal diingetin lewat WA."
+      },
+      {
+        "title": "Setoran kurir",
+        "text": "Setoran kurir dicocokin otomatis: galon sama uang pas, gak ada selisih tanpa jejak.\" → \"Dari chat WA sampai setoran, semuanya nyambung di satu aplikasi."
+      }
+    ],
+    "platform": "android",
+    "cover": "/demos/depot-air/cover.webp",
+    "images": [
+      "/demos/depot-air/01-ringkasan-android.webp",
+      "/demos/depot-air/02-antar-android.webp",
+      "/demos/depot-air/03-chat-android.webp",
+      "/demos/depot-air/04-galon-android.webp",
+      "/demos/depot-air/05-masuk-android.webp",
+      "/demos/depot-air/06-pesanan-android.webp",
+      "/demos/depot-air/07-serah-android.webp",
+      "/demos/depot-air/08-setoran-android.webp"
+    ],
+    "thumbs": [
+      "/demos/depot-air/t/01-ringkasan-android.webp",
+      "/demos/depot-air/t/02-antar-android.webp",
+      "/demos/depot-air/t/03-chat-android.webp",
+      "/demos/depot-air/t/04-galon-android.webp",
+      "/demos/depot-air/t/05-masuk-android.webp",
+      "/demos/depot-air/t/06-pesanan-android.webp",
+      "/demos/depot-air/t/07-serah-android.webp",
+      "/demos/depot-air/t/08-setoran-android.webp"
+    ]
+  },
+  {
+    "slug": "barbershop",
+    "name": "Garis Tegas Barbershop",
+    "niche": "Salon & barbershop",
+    "tagline": "Booking + antrean, komisi kapster, member",
+    "about": "Aplikasi web manajemen salon & barbershop untuk Garis Tegas Barbershop, mencakup booking + antrean, komisi kapster, member.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat omzet hari ini, berapa kepala, yang lagi antre, sampai daftar yang harus ditindak."
+      },
+      {
+        "title": "Antrean & perkiraan giliran",
+        "text": "Pelanggan walk-in tinggal dicatat nama sama nomor WA-nya. Sistem ngitung perkiraan giliran tiap kapster, termasuk yang ada booking."
+      },
+      {
+        "title": "WA otomatis ke pelanggan",
+        "text": "Kursi kosong, yang antre berikutnya langsung dipanggil. Pelanggan dapet nomor antrean dan WA pas gilirannya udah dekat, jadi bisa nunggu sambil ngopi."
+      },
+      {
+        "title": "Kasir & kartu stempel",
+        "text": "Di kasir, kartu stempel jalan sendiri. Potong ke-10 gratis otomatis, produk tetap kecatat, struknya langsung ke WA."
+      },
+      {
+        "title": "Bagi hasil kapster",
+        "text": "Bagi hasil tiap kapster dihitung per kepala dari tiap transaksi. Slipnya tinggal kirim ke WA, gak ada ribut pas closing."
+      },
+      {
+        "title": "Pelanggan & member",
+        "text": "Pelanggan yang lama gak balik kelihatan, lengkap sama catatan potongannya. Sekali klik diingetin lewat WA, orangnya langsung minta booking."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/barbershop/cover.webp",
+    "images": [
+      "/demos/barbershop/01-ringkasan-desktop.webp",
+      "/demos/barbershop/02-antrean-desktop.webp",
+      "/demos/barbershop/03-chat-desktop.webp",
+      "/demos/barbershop/04-kasir-desktop.webp",
+      "/demos/barbershop/05-komisi-desktop.webp",
+      "/demos/barbershop/06-pelanggan-desktop.webp",
+      "/demos/barbershop/07-flow-01-papan.webp",
+      "/demos/barbershop/08-flow-02-antrean-baru.webp",
+      "/demos/barbershop/09-flow-03-raka-masuk.webp",
+      "/demos/barbershop/10-flow-04-selesai-kursi2.webp",
+      "/demos/barbershop/11-flow-05-chat-raka.webp",
+      "/demos/barbershop/12-flow-07-struk.webp",
+      "/demos/barbershop/13-flow-08-rincian-rizal.webp",
+      "/demos/barbershop/14-flow-09-hendra.webp",
+      "/demos/barbershop/15-flow-10-chat-hendra.webp",
+      "/demos/barbershop/16-flow-11-ringkasan.webp",
+      "/demos/barbershop/17-ringkasan-mobile.webp",
+      "/demos/barbershop/18-antrean-mobile.webp",
+      "/demos/barbershop/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/barbershop/t/01-ringkasan-desktop.webp",
+      "/demos/barbershop/t/02-antrean-desktop.webp",
+      "/demos/barbershop/t/03-chat-desktop.webp",
+      "/demos/barbershop/t/04-kasir-desktop.webp",
+      "/demos/barbershop/t/05-komisi-desktop.webp",
+      "/demos/barbershop/t/06-pelanggan-desktop.webp",
+      "/demos/barbershop/t/07-flow-01-papan.webp",
+      "/demos/barbershop/t/08-flow-02-antrean-baru.webp",
+      "/demos/barbershop/t/09-flow-03-raka-masuk.webp",
+      "/demos/barbershop/t/10-flow-04-selesai-kursi2.webp",
+      "/demos/barbershop/t/11-flow-05-chat-raka.webp",
+      "/demos/barbershop/t/12-flow-07-struk.webp",
+      "/demos/barbershop/t/13-flow-08-rincian-rizal.webp",
+      "/demos/barbershop/t/14-flow-09-hendra.webp",
+      "/demos/barbershop/t/15-flow-10-chat-hendra.webp",
+      "/demos/barbershop/t/16-flow-11-ringkasan.webp",
+      "/demos/barbershop/t/17-ringkasan-mobile.webp",
+      "/demos/barbershop/t/18-antrean-mobile.webp",
+      "/demos/barbershop/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "toko-kue",
+    "name": "Tiga Loyang",
+    "niche": "Toko kue & bakery pre-order",
+    "tagline": "PO + DP, kalender produksi, ambil/antar",
+    "about": "Aplikasi web manajemen toko kue & bakery pre-order untuk Tiga Loyang, mencakup pO + DP, kalender produksi, ambil/antar.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat uang masuk sama pesanan hari ini, yang perlu ditindak, sampai kuota kue seminggu ke depan."
+      },
+      {
+        "title": "Pesanan dari chat WA",
+        "text": "Pesanan masuk lewat WA? Chat-nya dibaca sendiri jadi pesanan. Tulisan di kue dipisah dari request tambahan, harga sama DP langsung kehitung."
+      },
+      {
+        "title": "Cek kue & DP",
+        "text": "Pratinjau kuenya dikirim ke WA buat dicek pelanggan. Begitu dia bales BENAR, tulisannya kekunci. Bukti transfer masuk, DP tinggal ditandai."
+      },
+      {
+        "title": "Kalender & kuota",
+        "text": "Kuota kue tiap hari dihitung otomatis. Tanggal yang udah penuh, sistemnya yang nolak pesanan tambahan."
+      },
+      {
+        "title": "Papan dapur",
+        "text": "Di dapur, kue yang tulisannya belum dicek gak bisa mulai dihias. Kue selesai, pelanggan otomatis dikabari siap diambil."
+      },
+      {
+        "title": "Ambil & antar",
+        "text": "Pas kue diambil, sisa pembayarannya tinggal dilunasin, tunai, QRIS, atau transfer. Struknya langsung jadi, uang masuk ikut kecatat."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau pesanan dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/toko-kue/cover.webp",
+    "images": [
+      "/demos/toko-kue/01-ringkasan-desktop.webp",
+      "/demos/toko-kue/02-ambil-desktop.webp",
+      "/demos/toko-kue/03-chat-desktop.webp",
+      "/demos/toko-kue/04-dapur-desktop.webp",
+      "/demos/toko-kue/05-kalender-desktop.webp",
+      "/demos/toko-kue/06-pesanan-desktop.webp",
+      "/demos/toko-kue/07-flow-01-chat-ratna.webp",
+      "/demos/toko-kue/08-flow-03-kartu-cek.webp",
+      "/demos/toko-kue/09-flow-04-benar-bukti.webp",
+      "/demos/toko-kue/10-flow-06-kalender-penuh.webp",
+      "/demos/toko-kue/11-flow-07-dapur-terkunci.webp",
+      "/demos/toko-kue/12-flow-09-dapur-selesai-dekor.webp",
+      "/demos/toko-kue/13-flow-10-ambil-nia.webp",
+      "/demos/toko-kue/14-flow-12-struk-nia.webp",
+      "/demos/toko-kue/15-flow-13-ambil-rudi-berangkat.webp",
+      "/demos/toko-kue/16-flow-15-koreksi-tulisan.webp",
+      "/demos/toko-kue/17-ringkasan-mobile.webp",
+      "/demos/toko-kue/18-ambil-mobile.webp",
+      "/demos/toko-kue/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/toko-kue/t/01-ringkasan-desktop.webp",
+      "/demos/toko-kue/t/02-ambil-desktop.webp",
+      "/demos/toko-kue/t/03-chat-desktop.webp",
+      "/demos/toko-kue/t/04-dapur-desktop.webp",
+      "/demos/toko-kue/t/05-kalender-desktop.webp",
+      "/demos/toko-kue/t/06-pesanan-desktop.webp",
+      "/demos/toko-kue/t/07-flow-01-chat-ratna.webp",
+      "/demos/toko-kue/t/08-flow-03-kartu-cek.webp",
+      "/demos/toko-kue/t/09-flow-04-benar-bukti.webp",
+      "/demos/toko-kue/t/10-flow-06-kalender-penuh.webp",
+      "/demos/toko-kue/t/11-flow-07-dapur-terkunci.webp",
+      "/demos/toko-kue/t/12-flow-09-dapur-selesai-dekor.webp",
+      "/demos/toko-kue/t/13-flow-10-ambil-nia.webp",
+      "/demos/toko-kue/t/14-flow-12-struk-nia.webp",
+      "/demos/toko-kue/t/15-flow-13-ambil-rudi-berangkat.webp",
+      "/demos/toko-kue/t/16-flow-15-koreksi-tulisan.webp",
+      "/demos/toko-kue/t/17-ringkasan-mobile.webp",
+      "/demos/toko-kue/t/18-ambil-mobile.webp",
+      "/demos/toko-kue/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "catering",
+    "name": "Rantang Sumringah",
+    "niche": "Catering rantangan",
+    "tagline": "Langganan menu mingguan, produksi harian, rute antar",
+    "about": "Aplikasi web manajemen catering rantangan untuk Rantang Sumringah, mencakup langganan menu mingguan, produksi harian, rute antar.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat porsi besok, uang masuk hari ini, sampai daftar yang harus ditindak."
+      },
+      {
+        "title": "Libur lewat chat WA",
+        "text": "Pelanggan chat mau libur? Sistem langsung baca tanggalnya. Sekali klik, jatahnya gak hangus, langganannya mundur, pelanggan dapet konfirmasi."
+      },
+      {
+        "title": "Rekap dapur & belanja pasar",
+        "text": "Rekap masak besok langsung ikut turun, belanja pasar subuh juga dihitung ulang. Gak ada lagi masak kelebihan."
+      },
+      {
+        "title": "Menu mingguan",
+        "text": "Menu rotasi dua minggu, versi pantangan kayak gak makan sapi atau alergi seafood dihitung otomatis. Menu minggu depan tinggal disiarin ke semua pelanggan."
+      },
+      {
+        "title": "Antar & rantang",
+        "text": "Kurir tinggal klik terantar, pelanggan dikabari lewat WA. Rantang yang belum balik juga ketahuan, tinggal diingetin."
+      },
+      {
+        "title": "Langganan & tagihan",
+        "text": "Paket yang mau habis ketahuan sendiri. Tagih sekali klik, bukti transfer masuk, tandai lunas, jatahnya langsung nambah."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/catering/cover.webp",
+    "images": [
+      "/demos/catering/01-ringkasan-desktop.webp",
+      "/demos/catering/02-antar-desktop.webp",
+      "/demos/catering/03-chat-desktop.webp",
+      "/demos/catering/04-dapur-desktop.webp",
+      "/demos/catering/05-langganan-desktop.webp",
+      "/demos/catering/06-menu-desktop.webp",
+      "/demos/catering/07-flow-01-chat-rina.webp",
+      "/demos/catering/08-flow-02-libur-dicatat.webp",
+      "/demos/catering/09-flow-03-dapur-besok.webp",
+      "/demos/catering/10-flow-04-antar-budi.webp",
+      "/demos/catering/11-flow-05-budi-terantar.webp",
+      "/demos/catering/12-flow-06-perpanjang.webp",
+      "/demos/catering/13-flow-07-bukti-hendra.webp",
+      "/demos/catering/14-flow-08-hendra-lunas.webp",
+      "/demos/catering/15-flow-09-ringkasan-akhir.webp",
+      "/demos/catering/16-ringkasan-mobile.webp",
+      "/demos/catering/17-antar-mobile.webp",
+      "/demos/catering/18-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/catering/t/01-ringkasan-desktop.webp",
+      "/demos/catering/t/02-antar-desktop.webp",
+      "/demos/catering/t/03-chat-desktop.webp",
+      "/demos/catering/t/04-dapur-desktop.webp",
+      "/demos/catering/t/05-langganan-desktop.webp",
+      "/demos/catering/t/06-menu-desktop.webp",
+      "/demos/catering/t/07-flow-01-chat-rina.webp",
+      "/demos/catering/t/08-flow-02-libur-dicatat.webp",
+      "/demos/catering/t/09-flow-03-dapur-besok.webp",
+      "/demos/catering/t/10-flow-04-antar-budi.webp",
+      "/demos/catering/t/11-flow-05-budi-terantar.webp",
+      "/demos/catering/t/12-flow-06-perpanjang.webp",
+      "/demos/catering/t/13-flow-07-bukti-hendra.webp",
+      "/demos/catering/t/14-flow-08-hendra-lunas.webp",
+      "/demos/catering/t/15-flow-09-ringkasan-akhir.webp",
+      "/demos/catering/t/16-ringkasan-mobile.webp",
+      "/demos/catering/t/17-antar-mobile.webp",
+      "/demos/catering/t/18-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "sewa-lapangan",
+    "name": "Sorak Arena",
+    "niche": "Sewa lapangan futsal/badminton",
+    "tagline": "Booking slot, DP, member, jam ramai",
+    "about": "Aplikasi web manajemen sewa lapangan futsal/badminton untuk Sorak Arena, mencakup booking slot, DP, member, jam ramai.",
+    "features": [
+      {
+        "title": "Jadwal lapangan",
+        "text": "Semua lapangan ada di satu jadwal. Mana yang DP, lunas, member, atau lagi main langsung kelihatan, jadi gak bakal bentrok."
+      },
+      {
+        "title": "Chat WA & slot batal",
+        "text": "Tim batal mendadak lewat WA? Sistemnya baca slotnya, ngitung DP hangus, terus nawarin ke tim di daftar tunggu. Yang paling cepet bales AMBIL, dapet slotnya."
+      },
+      {
+        "title": "Kasir lapangan",
+        "text": "Di kasir, sisa sewa, rompi, sampai minuman tinggal ditambah. Bayar tunai, QRIS, atau transfer, struknya langsung ke WA, rekap shift ikut jalan."
+      },
+      {
+        "title": "Member jadwal tetap",
+        "text": "Tim member jadwal tetap kecatat semua. Tagihan bulanannya dihitung dari jumlah hari main, kirimnya sekali klik ke WA."
+      },
+      {
+        "title": "Jam ramai & promo",
+        "text": "Kelihatan jam mana yang rebutan dan jam mana yang sepi. Tim yang gak kebagian slot malam bisa langsung ditawarin promo jam pagi."
+      },
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Pemilik tinggal buka ringkasan: malam ini keisi berapa, DP hangus, slot batal yang keisi lagi, sampai uang masuk hari ini."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau lapangan dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/sewa-lapangan/cover.webp",
+    "images": [
+      "/demos/sewa-lapangan/01-ringkasan-desktop.webp",
+      "/demos/sewa-lapangan/02-chat-desktop.webp",
+      "/demos/sewa-lapangan/03-jadwal-desktop.webp",
+      "/demos/sewa-lapangan/04-jam-ramai-desktop.webp",
+      "/demos/sewa-lapangan/05-kasir-desktop.webp",
+      "/demos/sewa-lapangan/06-member-desktop.webp",
+      "/demos/sewa-lapangan/07-flow-01-jadwal-awal.webp",
+      "/demos/sewa-lapangan/08-flow-02-chat-laskar.webp",
+      "/demos/sewa-lapangan/09-flow-03-ditawarkan.webp",
+      "/demos/sewa-lapangan/10-flow-04-ambil.webp",
+      "/demos/sewa-lapangan/11-flow-05-bukti-dp.webp",
+      "/demos/sewa-lapangan/12-flow-07-jadwal-keisi.webp",
+      "/demos/sewa-lapangan/13-flow-08-jam-ramai.webp",
+      "/demos/sewa-lapangan/14-flow-09-promo-pratinjau.webp",
+      "/demos/sewa-lapangan/15-flow-10-promo-terkirim.webp",
+      "/demos/sewa-lapangan/16-flow-11-ringkasan-akhir.webp",
+      "/demos/sewa-lapangan/17-ringkasan-mobile.webp",
+      "/demos/sewa-lapangan/18-chat-mobile.webp",
+      "/demos/sewa-lapangan/19-jadwal-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/sewa-lapangan/t/01-ringkasan-desktop.webp",
+      "/demos/sewa-lapangan/t/02-chat-desktop.webp",
+      "/demos/sewa-lapangan/t/03-jadwal-desktop.webp",
+      "/demos/sewa-lapangan/t/04-jam-ramai-desktop.webp",
+      "/demos/sewa-lapangan/t/05-kasir-desktop.webp",
+      "/demos/sewa-lapangan/t/06-member-desktop.webp",
+      "/demos/sewa-lapangan/t/07-flow-01-jadwal-awal.webp",
+      "/demos/sewa-lapangan/t/08-flow-02-chat-laskar.webp",
+      "/demos/sewa-lapangan/t/09-flow-03-ditawarkan.webp",
+      "/demos/sewa-lapangan/t/10-flow-04-ambil.webp",
+      "/demos/sewa-lapangan/t/11-flow-05-bukti-dp.webp",
+      "/demos/sewa-lapangan/t/12-flow-07-jadwal-keisi.webp",
+      "/demos/sewa-lapangan/t/13-flow-08-jam-ramai.webp",
+      "/demos/sewa-lapangan/t/14-flow-09-promo-pratinjau.webp",
+      "/demos/sewa-lapangan/t/15-flow-10-promo-terkirim.webp",
+      "/demos/sewa-lapangan/t/16-flow-11-ringkasan-akhir.webp",
+      "/demos/sewa-lapangan/t/17-ringkasan-mobile.webp",
+      "/demos/sewa-lapangan/t/18-chat-mobile.webp",
+      "/demos/sewa-lapangan/t/19-jadwal-mobile.webp"
+    ]
+  },
+  {
+    "slug": "servis-ac",
+    "name": "Sepoi Teknik",
+    "niche": "Servis AC panggilan",
+    "tagline": "Job order teknisi, foto sebelum/sesudah, garansi",
+    "about": "Aplikasi HP manajemen servis AC panggilan untuk Sepoi Teknik, mencakup job order teknisi, foto sebelum/sesudah, garansi.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Pemilik langsung lihat job yang udah kelar, omzet, unit yang masih garansi, sama apa aja yang harus ditindak."
+      },
+      {
+        "title": "Klaim garansi dari chat WA",
+        "text": "Pelanggan komplain AC netes lagi? Garansinya langsung dicek, lengkap sama foto servis lama. Sekali tap, teknisi dijadwalin balik, gratis."
+      },
+      {
+        "title": "Bukti servis di HP teknisi",
+        "text": "Di HP teknisi, job tadi udah nongol, dan foto sebelum-sesudah wajib lengkap sama cap waktunya. Kalau tekanan freon normal, tombol tambah freon dikunci, jadi teknisi gak bisa asal bilang freon habis."
+      },
+      {
+        "title": "Laporan ke WA pelanggan",
+        "text": "Laporannya jadi sendiri: foto, angka ukur, biaya, sama status garansi. Sekali tap, kekirim ke WA pelanggan."
+      },
+      {
+        "title": "Garansi & pengingat cuci AC",
+        "text": "Sisa garansi tiap unit kehitung sendiri. Pelanggan yang udah waktunya cuci AC tinggal diingetin sekali tap.\" → \"Dari komplain di WA sampai laporan terkirim, semuanya nyambung di satu aplikasi."
+      }
+    ],
+    "platform": "android",
+    "cover": "/demos/servis-ac/cover.webp",
+    "images": [
+      "/demos/servis-ac/01-ringkasan-android.webp",
+      "/demos/servis-ac/02-chat-android.webp",
+      "/demos/servis-ac/03-garansi-android.webp",
+      "/demos/servis-ac/04-kerja-android.webp",
+      "/demos/servis-ac/05-laporan-android.webp",
+      "/demos/servis-ac/06-masuk-android.webp",
+      "/demos/servis-ac/07-pesanan-android.webp",
+      "/demos/servis-ac/08-tugas-android.webp"
+    ],
+    "thumbs": [
+      "/demos/servis-ac/t/01-ringkasan-android.webp",
+      "/demos/servis-ac/t/02-chat-android.webp",
+      "/demos/servis-ac/t/03-garansi-android.webp",
+      "/demos/servis-ac/t/04-kerja-android.webp",
+      "/demos/servis-ac/t/05-laporan-android.webp",
+      "/demos/servis-ac/t/06-masuk-android.webp",
+      "/demos/servis-ac/t/07-pesanan-android.webp",
+      "/demos/servis-ac/t/08-tugas-android.webp"
+    ]
+  },
+  {
+    "slug": "klinik-gigi",
+    "name": "Sumeh Dental",
+    "niche": "Klinik gigi",
+    "tagline": "Jadwal pasien, catatan tindakan, reminder kontrol",
+    "about": "Aplikasi web manajemen klinik gigi untuk Sumeh Dental, mencakup jadwal pasien, catatan tindakan, reminder kontrol.",
+    "features": [
+      {
+        "title": "Jadwal per kursi & dokter",
+        "text": "Jadwal tiap kursi dan dokter kelihatan seharian: siapa yang lagi di kursi, yang udah datang, sampai yang belum konfirmasi."
+      },
+      {
+        "title": "Odontogram & rencana perawatan",
+        "text": "Rekam medisnya pakai odontogram. Klik gigi, tandai kondisi dan diagnosa, sistem nyaranin tindakan, terus rencana beberapa kunjungan langsung masuk jadwal dan terkirim ke WA pasien."
+      },
+      {
+        "title": "Pengingat kontrol",
+        "text": "Pasien yang perawatannya putus ketahuan semua. Sekali klik diingetin lewat WA, pasien cukup bales angka, langsung masuk jadwal lagi."
+      },
+      {
+        "title": "Kasir & jasa medis",
+        "text": "Di kasir tagihan langsung jadi, kembalian kehitung, kwitansi dikirim ke WA. Jasa medis tiap dokter juga kehitung sendiri."
+      },
+      {
+        "title": "Chat WA jadi janji",
+        "text": "Chat WA pasien masuk ke satu tempat. Ada yang minta jadwal lewat chat? Sistemnya bacain, sekali klik jadi janji."
+      },
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Pemilik tinggal buka ringkasan: pasien hari ini, pendapatan, perawatan yang putus, sampai kunjungan lanjutan yang udah terjadwal."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/klinik-gigi/cover.webp",
+    "images": [
+      "/demos/klinik-gigi/01-ringkasan-desktop.webp",
+      "/demos/klinik-gigi/02-chat-desktop.webp",
+      "/demos/klinik-gigi/03-jadwal-desktop.webp",
+      "/demos/klinik-gigi/04-kasir-desktop.webp",
+      "/demos/klinik-gigi/05-kontrol-desktop.webp",
+      "/demos/klinik-gigi/06-rekam-medis-desktop.webp",
+      "/demos/klinik-gigi/07-flow-01-jadwal-awal.webp",
+      "/demos/klinik-gigi/08-flow-02-drawer-rina.webp",
+      "/demos/klinik-gigi/09-flow-04-rm-saran.webp",
+      "/demos/klinik-gigi/10-flow-05-rm-rencana.webp",
+      "/demos/klinik-gigi/11-flow-06-rm-terkirim.webp",
+      "/demos/klinik-gigi/12-flow-08-kontrol-awal.webp",
+      "/demos/klinik-gigi/13-flow-09-kontrol-terkirim.webp",
+      "/demos/klinik-gigi/14-flow-10-kontrol-balik.webp",
+      "/demos/klinik-gigi/15-flow-12-chat-janji.webp",
+      "/demos/klinik-gigi/16-flow-13-kasir-lunas.webp",
+      "/demos/klinik-gigi/17-ringkasan-mobile.webp",
+      "/demos/klinik-gigi/18-chat-mobile.webp",
+      "/demos/klinik-gigi/19-jadwal-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/klinik-gigi/t/01-ringkasan-desktop.webp",
+      "/demos/klinik-gigi/t/02-chat-desktop.webp",
+      "/demos/klinik-gigi/t/03-jadwal-desktop.webp",
+      "/demos/klinik-gigi/t/04-kasir-desktop.webp",
+      "/demos/klinik-gigi/t/05-kontrol-desktop.webp",
+      "/demos/klinik-gigi/t/06-rekam-medis-desktop.webp",
+      "/demos/klinik-gigi/t/07-flow-01-jadwal-awal.webp",
+      "/demos/klinik-gigi/t/08-flow-02-drawer-rina.webp",
+      "/demos/klinik-gigi/t/09-flow-04-rm-saran.webp",
+      "/demos/klinik-gigi/t/10-flow-05-rm-rencana.webp",
+      "/demos/klinik-gigi/t/11-flow-06-rm-terkirim.webp",
+      "/demos/klinik-gigi/t/12-flow-08-kontrol-awal.webp",
+      "/demos/klinik-gigi/t/13-flow-09-kontrol-terkirim.webp",
+      "/demos/klinik-gigi/t/14-flow-10-kontrol-balik.webp",
+      "/demos/klinik-gigi/t/15-flow-12-chat-janji.webp",
+      "/demos/klinik-gigi/t/16-flow-13-kasir-lunas.webp",
+      "/demos/klinik-gigi/t/17-ringkasan-mobile.webp",
+      "/demos/klinik-gigi/t/18-chat-mobile.webp",
+      "/demos/klinik-gigi/t/19-jadwal-mobile.webp"
+    ]
+  },
+  {
+    "slug": "rental-mobil",
+    "name": "Lajur Rent Car",
+    "niche": "Rental mobil",
+    "tagline": "Jadwal armada, kontrak + deposit, cek kondisi pakai foto",
+    "about": "Aplikasi web manajemen rental mobil untuk Lajur Rent Car, mencakup jadwal armada, kontrak + deposit, cek kondisi pakai foto.",
+    "features": [
+      {
+        "title": "Jadwal armada",
+        "text": "Semua unit kelihatan di satu jadwal, dua minggu ke depan. Yang telat balik sama yang belum DP langsung ketahuan, jadi gak ada dobel booking."
+      },
+      {
+        "title": "Kontrak & verifikasi",
+        "text": "Tiap kontrak nyimpen verifikasi penyewa, dari KTP, SIM, sampai daftar hitam, plus DP, pelunasan, dan deposit yang ditahan."
+      },
+      {
+        "title": "Cek kondisi keluar vs balik",
+        "text": "Pas mobil balik, foto tiap sisi disandingin sama foto waktu keluar. Baret baru ketahuan, potongan deposit kehitung sendiri, rinciannya langsung ke WA penyewa."
+      },
+      {
+        "title": "Chat WA & perpanjang",
+        "text": "Penyewa minta perpanjang lewat WA? Sistem ngecek jadwalnya dulu. Kalau bentrok, booking berikutnya dipindah ke unit setipe yang kosong."
+      },
+      {
+        "title": "Data armada",
+        "text": "Data tiap unit kecatat: kilometer, jadwal servis, pajak STNK, sampai riwayat kerusakannya."
+      },
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Pemilik tinggal lihat ringkasan: unit yang jalan, deposit yang ditahan, potongan hari ini, sampai kerusakan baru sebulan terakhir."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau armada dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/rental-mobil/cover.webp",
+    "images": [
+      "/demos/rental-mobil/01-ringkasan-desktop.webp",
+      "/demos/rental-mobil/02-armada-desktop.webp",
+      "/demos/rental-mobil/03-cek-kondisi-desktop.webp",
+      "/demos/rental-mobil/04-chat-desktop.webp",
+      "/demos/rental-mobil/05-jadwal-desktop.webp",
+      "/demos/rental-mobil/06-kontrak-desktop.webp",
+      "/demos/rental-mobil/07-flow-01-jadwal-awal.webp",
+      "/demos/rental-mobil/08-flow-03-cek-awal.webp",
+      "/demos/rental-mobil/09-flow-05-pilih-jenis.webp",
+      "/demos/rental-mobil/10-flow-07-wa-terkirim.webp",
+      "/demos/rental-mobil/11-flow-09-selesai.webp",
+      "/demos/rental-mobil/12-flow-11-chat-sinta.webp",
+      "/demos/rental-mobil/13-flow-13-chat-diproses.webp",
+      "/demos/rental-mobil/14-flow-15-jadwal-perpanjang.webp",
+      "/demos/rental-mobil/15-flow-17-cek-keluar.webp",
+      "/demos/rental-mobil/16-flow-19-armada-calya.webp",
+      "/demos/rental-mobil/17-ringkasan-mobile.webp",
+      "/demos/rental-mobil/18-armada-mobile.webp",
+      "/demos/rental-mobil/19-cek-kondisi-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/rental-mobil/t/01-ringkasan-desktop.webp",
+      "/demos/rental-mobil/t/02-armada-desktop.webp",
+      "/demos/rental-mobil/t/03-cek-kondisi-desktop.webp",
+      "/demos/rental-mobil/t/04-chat-desktop.webp",
+      "/demos/rental-mobil/t/05-jadwal-desktop.webp",
+      "/demos/rental-mobil/t/06-kontrak-desktop.webp",
+      "/demos/rental-mobil/t/07-flow-01-jadwal-awal.webp",
+      "/demos/rental-mobil/t/08-flow-03-cek-awal.webp",
+      "/demos/rental-mobil/t/09-flow-05-pilih-jenis.webp",
+      "/demos/rental-mobil/t/10-flow-07-wa-terkirim.webp",
+      "/demos/rental-mobil/t/11-flow-09-selesai.webp",
+      "/demos/rental-mobil/t/12-flow-11-chat-sinta.webp",
+      "/demos/rental-mobil/t/13-flow-13-chat-diproses.webp",
+      "/demos/rental-mobil/t/14-flow-15-jadwal-perpanjang.webp",
+      "/demos/rental-mobil/t/15-flow-17-cek-keluar.webp",
+      "/demos/rental-mobil/t/16-flow-19-armada-calya.webp",
+      "/demos/rental-mobil/t/17-ringkasan-mobile.webp",
+      "/demos/rental-mobil/t/18-armada-mobile.webp",
+      "/demos/rental-mobil/t/19-cek-kondisi-mobile.webp"
+    ]
+  },
+  {
+    "slug": "cuci-kendaraan",
+    "name": "Gebyur Car Wash",
+    "niche": "Cuci mobil & motor",
+    "tagline": "Antrean bay, paket member, kapasitas harian",
+    "about": "Aplikasi web manajemen cuci mobil & motor untuk Gebyur Car Wash, mencakup antrean bay, paket member, kapasitas harian.",
+    "features": [
+      {
+        "title": "Papan antrean bay",
+        "text": "Tiap bay kelihatan lagi nyuci apa, sampai tahap mana, dan jam selesainya. Mobil baru masuk, tinggal ketik plat dan pilih paket, sistem yang milih bay paling cepat kosong."
+      },
+      {
+        "title": "Garansi hujan dari chat",
+        "text": "Pelanggan nagih garansi hujan? Sistem ngecek transaksi dan empat syaratnya sendiri. Layak, sekali klik masuk antrean prioritas. Lewat 24 jam, pesan penolakan sopannya udah disiapin."
+      },
+      {
+        "title": "Kasir",
+        "text": "Di kasir tinggal pilih tunai, QRIS, transfer, atau potong kartu member. Lunas, struknya bisa langsung dikirim ke WA."
+      },
+      {
+        "title": "Kartu member 8x",
+        "text": "Kartu cuci 8x member kecatat semua. Yang hampir habis atau mau hangus, sekali klik diingetin lewat WA."
+      },
+      {
+        "title": "Kapasitas & jadwal bay",
+        "text": "Jadwal tiap bay seharian kelihatan, plus sisa kapasitas sampai tutup. Jadi tahu masih bisa nerima berapa mobil lagi."
+      },
+      {
+        "title": "Ringkasan & bagi hasil",
+        "text": "Di ringkasan ada pemasukan hari ini, yang belum bayar, garansi hujan, sampai bagi hasil pencuci yang kehitung otomatis."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/cuci-kendaraan/cover.webp",
+    "images": [
+      "/demos/cuci-kendaraan/01-ringkasan-desktop.webp",
+      "/demos/cuci-kendaraan/02-antrean-desktop.webp",
+      "/demos/cuci-kendaraan/03-chat-desktop.webp",
+      "/demos/cuci-kendaraan/04-kapasitas-desktop.webp",
+      "/demos/cuci-kendaraan/05-kasir-desktop.webp",
+      "/demos/cuci-kendaraan/06-member-desktop.webp",
+      "/demos/cuci-kendaraan/07-flow-01-papan-awal.webp",
+      "/demos/cuci-kendaraan/08-flow-04-rina-disetujui.webp",
+      "/demos/cuci-kendaraan/09-flow-07-andri-ditolak.webp",
+      "/demos/cuci-kendaraan/10-flow-10-struk-wa.webp",
+      "/demos/cuci-kendaraan/11-flow-13-chat-joko.webp",
+      "/demos/cuci-kendaraan/12-flow-16-chat-tawaran.webp",
+      "/demos/cuci-kendaraan/13-flow-19-member-diingatkan.webp",
+      "/demos/cuci-kendaraan/14-flow-22-member-drawer.webp",
+      "/demos/cuci-kendaraan/15-flow-25-papan-tandai-selesai.webp",
+      "/demos/cuci-kendaraan/16-flow-28-lewat-estimasi.webp",
+      "/demos/cuci-kendaraan/17-ringkasan-mobile.webp",
+      "/demos/cuci-kendaraan/18-antrean-mobile.webp",
+      "/demos/cuci-kendaraan/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/cuci-kendaraan/t/01-ringkasan-desktop.webp",
+      "/demos/cuci-kendaraan/t/02-antrean-desktop.webp",
+      "/demos/cuci-kendaraan/t/03-chat-desktop.webp",
+      "/demos/cuci-kendaraan/t/04-kapasitas-desktop.webp",
+      "/demos/cuci-kendaraan/t/05-kasir-desktop.webp",
+      "/demos/cuci-kendaraan/t/06-member-desktop.webp",
+      "/demos/cuci-kendaraan/t/07-flow-01-papan-awal.webp",
+      "/demos/cuci-kendaraan/t/08-flow-04-rina-disetujui.webp",
+      "/demos/cuci-kendaraan/t/09-flow-07-andri-ditolak.webp",
+      "/demos/cuci-kendaraan/t/10-flow-10-struk-wa.webp",
+      "/demos/cuci-kendaraan/t/11-flow-13-chat-joko.webp",
+      "/demos/cuci-kendaraan/t/12-flow-16-chat-tawaran.webp",
+      "/demos/cuci-kendaraan/t/13-flow-19-member-diingatkan.webp",
+      "/demos/cuci-kendaraan/t/14-flow-22-member-drawer.webp",
+      "/demos/cuci-kendaraan/t/15-flow-25-papan-tandai-selesai.webp",
+      "/demos/cuci-kendaraan/t/16-flow-28-lewat-estimasi.webp",
+      "/demos/cuci-kendaraan/t/17-ringkasan-mobile.webp",
+      "/demos/cuci-kendaraan/t/18-antrean-mobile.webp",
+      "/demos/cuci-kendaraan/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "percetakan",
+    "name": "Mampir Print",
+    "niche": "Percetakan & fotokopi",
+    "tagline": "Order cetak, harga per bahan/ukuran, antrean produksi",
+    "about": "Aplikasi web manajemen percetakan & fotokopi untuk Mampir Print, mencakup order cetak, harga per bahan/ukuran, antrean produksi.",
+    "features": [
+      {
+        "title": "Antrean per mesin",
+        "text": "Tiap mesin punya antreannya sendiri, lengkap sama jam jadinya. Urutannya ngikutin janji ke pelanggan, yang mepet langsung kelihatan."
+      },
+      {
+        "title": "Cek file dari WA",
+        "text": "File dari WA dicek dulu sebelum naik cetak. Foto 11 dpi buat spanduk 3 meter? Ketahuan bakal pecah, sekali klik minta kirim ulang."
+      },
+      {
+        "title": "Order & harga otomatis",
+        "text": "Dari chat langsung jadi order. Bahan, ukuran, harga, DP, sampai perkiraan jam jadi keisi sendiri."
+      },
+      {
+        "title": "Kasir & ambil",
+        "text": "Pas pelanggan ambil, sisa tagihannya udah kehitung. Bayar tunai, kembalian keluar sendiri, nota langsung ke WA."
+      },
+      {
+        "title": "Pelanggan & tempo",
+        "text": "Pelanggan tetap sama instansi yang bayarnya tempo kecatat semua. Yang telat bayar, tagihannya tinggal kirim ke WA."
+      },
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Pemilik tinggal lihat ringkasan: kas masuk hari ini, piutang, sampai berapa file jelek yang dicegat sebelum dicetak."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau antrean dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/percetakan/cover.webp",
+    "images": [
+      "/demos/percetakan/01-ringkasan-desktop.webp",
+      "/demos/percetakan/02-antrean-desktop.webp",
+      "/demos/percetakan/03-chat-desktop.webp",
+      "/demos/percetakan/04-kasir-desktop.webp",
+      "/demos/percetakan/05-order-desktop.webp",
+      "/demos/percetakan/06-pelanggan-desktop.webp",
+      "/demos/percetakan/07-flow-01-papan-awal.webp",
+      "/demos/percetakan/08-flow-03-pesan-siap-kirim.webp",
+      "/demos/percetakan/09-flow-05-form-order.webp",
+      "/demos/percetakan/10-flow-07-dp-dikonfirmasi.webp",
+      "/demos/percetakan/11-flow-09-kasir.webp",
+      "/demos/percetakan/12-flow-10-kasir-tunai.webp",
+      "/demos/percetakan/13-flow-12-ringkasan.webp",
+      "/demos/percetakan/14-flow-14-ingatkan-semua.webp",
+      "/demos/percetakan/15-flow-16-penjualan-cepat.webp",
+      "/demos/percetakan/16-flow-18-kabari-pelanggan.webp",
+      "/demos/percetakan/17-ringkasan-mobile.webp",
+      "/demos/percetakan/18-antrean-mobile.webp",
+      "/demos/percetakan/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/percetakan/t/01-ringkasan-desktop.webp",
+      "/demos/percetakan/t/02-antrean-desktop.webp",
+      "/demos/percetakan/t/03-chat-desktop.webp",
+      "/demos/percetakan/t/04-kasir-desktop.webp",
+      "/demos/percetakan/t/05-order-desktop.webp",
+      "/demos/percetakan/t/06-pelanggan-desktop.webp",
+      "/demos/percetakan/t/07-flow-01-papan-awal.webp",
+      "/demos/percetakan/t/08-flow-03-pesan-siap-kirim.webp",
+      "/demos/percetakan/t/09-flow-05-form-order.webp",
+      "/demos/percetakan/t/10-flow-07-dp-dikonfirmasi.webp",
+      "/demos/percetakan/t/11-flow-09-kasir.webp",
+      "/demos/percetakan/t/12-flow-10-kasir-tunai.webp",
+      "/demos/percetakan/t/13-flow-12-ringkasan.webp",
+      "/demos/percetakan/t/14-flow-14-ingatkan-semua.webp",
+      "/demos/percetakan/t/15-flow-16-penjualan-cepat.webp",
+      "/demos/percetakan/t/16-flow-18-kabari-pelanggan.webp",
+      "/demos/percetakan/t/17-ringkasan-mobile.webp",
+      "/demos/percetakan/t/18-antrean-mobile.webp",
+      "/demos/percetakan/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "apotek",
+    "name": "Apotek Lekas Pulih",
+    "niche": "Apotek",
+    "tagline": "Stok obat + kedaluwarsa, resep, penjualan harian",
+    "about": "Aplikasi web manajemen apotek untuk Apotek Lekas Pulih, mencakup stok obat + kedaluwarsa, resep, penjualan harian.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat penjualan hari ini, obat yang mau kedaluwarsa, utang ke PBF, sampai daftar yang harus ditindak."
+      },
+      {
+        "title": "Kasir & resep",
+        "text": "Kasir sama resep jadi satu. Batch yang ED-nya paling dekat diambil otomatis, bayar bisa tunai, QRIS, atau transfer, etiket langsung jadi."
+      },
+      {
+        "title": "Stok obat & pesan ke PBF",
+        "text": "Stok tiap obat kepantau sampai batch, rak, dan kartu stoknya. Yang habis atau sering dicari langsung jadi surat pesanan ke sales."
+      },
+      {
+        "title": "Radar kedaluwarsa",
+        "text": "Obat yang mau kedaluwarsa dipilah otomatis: retur ke PBF, jual duluan, atau karantina. Returnya sekali klik jadi nota ke sales."
+      },
+      {
+        "title": "Faktur PBF",
+        "text": "Utang ke PBF kecatat semua: jatuh tempo, yang telat, sampai potongan dari retur."
+      },
+      {
+        "title": "Chat WA",
+        "text": "Chat WA pelanggan dan sales masuk ke satu tempat. Ada yang minta antibiotik tanpa resep? Sistemnya ngingetin, balasannya udah disiapin."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/apotek/cover.webp",
+    "images": [
+      "/demos/apotek/01-ringkasan-desktop.webp",
+      "/demos/apotek/02-chat-desktop.webp",
+      "/demos/apotek/03-faktur-desktop.webp",
+      "/demos/apotek/04-kasir-desktop.webp",
+      "/demos/apotek/05-kedaluwarsa-desktop.webp",
+      "/demos/apotek/06-stok-desktop.webp",
+      "/demos/apotek/07-flow-01-ringkasan-awal.webp",
+      "/demos/apotek/08-flow-02-radar-awal.webp",
+      "/demos/apotek/09-flow-04-retur-diajukan.webp",
+      "/demos/apotek/10-flow-05-resep-pak-rusli.webp",
+      "/demos/apotek/11-flow-07-diserahkan.webp",
+      "/demos/apotek/12-flow-08-ringkasan-akhir.webp",
+      "/demos/apotek/13-flow-10-dialog-obat-keras.webp",
+      "/demos/apotek/14-flow-11-defekta.webp",
+      "/demos/apotek/15-flow-13-faktur.webp",
+      "/demos/apotek/16-flow-14-faktur-lunas.webp",
+      "/demos/apotek/17-ringkasan-mobile.webp",
+      "/demos/apotek/18-chat-mobile.webp",
+      "/demos/apotek/19-faktur-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/apotek/t/01-ringkasan-desktop.webp",
+      "/demos/apotek/t/02-chat-desktop.webp",
+      "/demos/apotek/t/03-faktur-desktop.webp",
+      "/demos/apotek/t/04-kasir-desktop.webp",
+      "/demos/apotek/t/05-kedaluwarsa-desktop.webp",
+      "/demos/apotek/t/06-stok-desktop.webp",
+      "/demos/apotek/t/07-flow-01-ringkasan-awal.webp",
+      "/demos/apotek/t/08-flow-02-radar-awal.webp",
+      "/demos/apotek/t/09-flow-04-retur-diajukan.webp",
+      "/demos/apotek/t/10-flow-05-resep-pak-rusli.webp",
+      "/demos/apotek/t/11-flow-07-diserahkan.webp",
+      "/demos/apotek/t/12-flow-08-ringkasan-akhir.webp",
+      "/demos/apotek/t/13-flow-10-dialog-obat-keras.webp",
+      "/demos/apotek/t/14-flow-11-defekta.webp",
+      "/demos/apotek/t/15-flow-13-faktur.webp",
+      "/demos/apotek/t/16-flow-14-faktur-lunas.webp",
+      "/demos/apotek/t/17-ringkasan-mobile.webp",
+      "/demos/apotek/t/18-chat-mobile.webp",
+      "/demos/apotek/t/19-faktur-mobile.webp"
+    ]
+  },
+  {
+    "slug": "bimbel",
+    "name": "Bimbel Sinau Pol",
+    "niche": "Bimbel & kursus",
+    "tagline": "Jadwal kelas, absensi, SPP, laporan progres ke orang tua",
+    "about": "Aplikasi web manajemen bimbel & kursus untuk Bimbel Sinau Pol, mencakup jadwal kelas, absensi, SPP, laporan progres ke orang tua.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat kelas hari ini, SPP yang telat, rapor yang belum kekirim, sampai daftar yang harus ditindak."
+      },
+      {
+        "title": "Jadwal & absen",
+        "text": "Tentor absen tiap kelas. Ada anak yang belum sampai? Sekali klik, orang tuanya langsung dikabari lewat WA."
+      },
+      {
+        "title": "Rapor bulanan",
+        "text": "Rapor bulanan jadi sendiri dari absen, nilai, sama catatan tentor. Bab yang masih lemah ketandain, terus dikirim ke semua orang tua sekali klik."
+      },
+      {
+        "title": "Rapor jadi les privat",
+        "text": "Ada orang tua yang minta les tambahan? Sistemnya nyariin jadwal tentor yang masih kosong, terus jadwal privat sama tagihannya langsung jadi."
+      },
+      {
+        "title": "SPP & tagihan",
+        "text": "SPP tiap anak punya jatuh tempo sendiri. Yang telat diingetin sopan sekali klik, anaknya tetap ikut kelas."
+      },
+      {
+        "title": "Honor tentor",
+        "text": "Honor tentor dihitung dari sesi yang beneran diabsen, telat masuk kepotong otomatis, slipnya tinggal kirim ke WA."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Semuanya bisa dibuka dari HP, jadi tentor bisa absen dan pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/bimbel/cover.webp",
+    "images": [
+      "/demos/bimbel/01-ringkasan-desktop.webp",
+      "/demos/bimbel/02-chat-desktop.webp",
+      "/demos/bimbel/03-jadwal-desktop.webp",
+      "/demos/bimbel/04-rapor-desktop.webp",
+      "/demos/bimbel/05-spp-desktop.webp",
+      "/demos/bimbel/06-tentor-desktop.webp",
+      "/demos/bimbel/07-flow-01-ringkasan-awal.webp",
+      "/demos/bimbel/08-flow-04-absen-balasan-1.webp",
+      "/demos/bimbel/09-flow-08-rapor-9smpa-awal.webp",
+      "/demos/bimbel/10-flow-11-rapor-terkirim-54-84.webp",
+      "/demos/bimbel/11-flow-15-chat-pilih-nomor-1.webp",
+      "/demos/bimbel/12-flow-18-jadwal-7hari-sesi-baru.webp",
+      "/demos/bimbel/13-flow-22-spp-diingatkan.webp",
+      "/demos/bimbel/14-flow-25-chat-konfirmasi-lunas.webp",
+      "/demos/bimbel/15-flow-29-tentor-drawer-honor-fajar.webp",
+      "/demos/bimbel/16-flow-32-chat-calon-siswa-balasan.webp",
+      "/demos/bimbel/17-ringkasan-mobile.webp",
+      "/demos/bimbel/18-chat-mobile.webp",
+      "/demos/bimbel/19-jadwal-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/bimbel/t/01-ringkasan-desktop.webp",
+      "/demos/bimbel/t/02-chat-desktop.webp",
+      "/demos/bimbel/t/03-jadwal-desktop.webp",
+      "/demos/bimbel/t/04-rapor-desktop.webp",
+      "/demos/bimbel/t/05-spp-desktop.webp",
+      "/demos/bimbel/t/06-tentor-desktop.webp",
+      "/demos/bimbel/t/07-flow-01-ringkasan-awal.webp",
+      "/demos/bimbel/t/08-flow-04-absen-balasan-1.webp",
+      "/demos/bimbel/t/09-flow-08-rapor-9smpa-awal.webp",
+      "/demos/bimbel/t/10-flow-11-rapor-terkirim-54-84.webp",
+      "/demos/bimbel/t/11-flow-15-chat-pilih-nomor-1.webp",
+      "/demos/bimbel/t/12-flow-18-jadwal-7hari-sesi-baru.webp",
+      "/demos/bimbel/t/13-flow-22-spp-diingatkan.webp",
+      "/demos/bimbel/t/14-flow-25-chat-konfirmasi-lunas.webp",
+      "/demos/bimbel/t/15-flow-29-tentor-drawer-honor-fajar.webp",
+      "/demos/bimbel/t/16-flow-32-chat-calon-siswa-balasan.webp",
+      "/demos/bimbel/t/17-ringkasan-mobile.webp",
+      "/demos/bimbel/t/18-chat-mobile.webp",
+      "/demos/bimbel/t/19-jadwal-mobile.webp"
+    ]
+  },
+  {
+    "slug": "gym",
+    "name": "Tulang Besi Gym",
+    "niche": "Gym & fitness studio",
+    "tagline": "Membership, check-in, jadwal kelas",
+    "about": "Aplikasi web manajemen gym & fitness studio untuk Tulang Besi Gym, mencakup membership, check-in, jadwal kelas.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, pemilik langsung lihat member aktif, check-in hari ini, omzet, sampai member yang mulai kendor."
+      },
+      {
+        "title": "Pintu & kasir",
+        "text": "Di pintu, scan kartu langsung kelihatan membership-nya. Yang masa aktifnya habis gak lolos, tapi bisa langsung perpanjang di tempat, bayar QRIS, terus masuk."
+      },
+      {
+        "title": "Mulai kendor",
+        "text": "Yang paling penting: member yang mulai jarang datang kelihatan sebelum masa aktifnya habis, diurut dari uang yang terancam hilang. Sistem nebak penyebabnya dan nyaranin tawaran yang cocok. Tinggal klik ajak balik. Member bales mau kelas pagi, daftarin satu klik. Lanjut dia transfer perpanjang, konfirmasi, masa aktifnya langsung nyambung."
+      },
+      {
+        "title": "Jadwal kelas",
+        "text": "Kelas penuh? Ada yang batal mendadak, antrean pertama langsung naik sendiri dan dikabarin lewat WA."
+      },
+      {
+        "title": "Chat WA & cuti",
+        "text": "Member minta cuti lewat WA? Aturannya udah dicek otomatis, tinggal setujui."
+      },
+      {
+        "title": "Member",
+        "text": "Masa aktifnya otomatis geser sesuai hari cuti, status member kelihatan jelas."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi pemilik bisa mantau dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/gym/cover.webp",
+    "images": [
+      "/demos/gym/01-ringkasan-desktop.webp",
+      "/demos/gym/02-chat-desktop.webp",
+      "/demos/gym/03-kelas-desktop.webp",
+      "/demos/gym/04-kendor-desktop.webp",
+      "/demos/gym/05-member-desktop.webp",
+      "/demos/gym/06-pintu-desktop.webp",
+      "/demos/gym/07-flow-01-ringkasan-awal.webp",
+      "/demos/gym/08-flow-04-pintu-andre-masuk.webp",
+      "/demos/gym/09-flow-07-pintu-marlina-masuk.webp",
+      "/demos/gym/10-flow-09-kendor-diajak.webp",
+      "/demos/gym/11-flow-12-kendor-bukti.webp",
+      "/demos/gym/12-flow-15-kelas-awal.webp",
+      "/demos/gym/13-flow-18-chat-ratna.webp",
+      "/demos/gym/14-flow-20-member-ratna-cuti.webp",
+      "/demos/gym/15-flow-23-ringkasan-kasir.webp",
+      "/demos/gym/16-flow-30-state-satu-kendor.webp",
+      "/demos/gym/17-ringkasan-mobile.webp",
+      "/demos/gym/18-chat-mobile.webp",
+      "/demos/gym/19-kelas-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/gym/t/01-ringkasan-desktop.webp",
+      "/demos/gym/t/02-chat-desktop.webp",
+      "/demos/gym/t/03-kelas-desktop.webp",
+      "/demos/gym/t/04-kendor-desktop.webp",
+      "/demos/gym/t/05-member-desktop.webp",
+      "/demos/gym/t/06-pintu-desktop.webp",
+      "/demos/gym/t/07-flow-01-ringkasan-awal.webp",
+      "/demos/gym/t/08-flow-04-pintu-andre-masuk.webp",
+      "/demos/gym/t/09-flow-07-pintu-marlina-masuk.webp",
+      "/demos/gym/t/10-flow-09-kendor-diajak.webp",
+      "/demos/gym/t/11-flow-12-kendor-bukti.webp",
+      "/demos/gym/t/12-flow-15-kelas-awal.webp",
+      "/demos/gym/t/13-flow-18-chat-ratna.webp",
+      "/demos/gym/t/14-flow-20-member-ratna-cuti.webp",
+      "/demos/gym/t/15-flow-23-ringkasan-kasir.webp",
+      "/demos/gym/t/16-flow-30-state-satu-kendor.webp",
+      "/demos/gym/t/17-ringkasan-mobile.webp",
+      "/demos/gym/t/18-chat-mobile.webp",
+      "/demos/gym/t/19-kelas-mobile.webp"
+    ]
+  },
+  {
+    "slug": "pet-shop",
+    "name": "Kumis Rapi Petshop & Grooming",
+    "niche": "Pet shop & grooming",
+    "tagline": "Booking grooming, penitipan, stok pakan",
+    "about": "Aplikasi web manajemen pet shop & grooming untuk Kumis Rapi Petshop & Grooming, mencakup booking grooming, penitipan, stok pakan.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, kelihatan grooming hari ini, kamar penitipan, omzet, stok menipis, sampai pelanggan yang pakannya mau habis."
+      },
+      {
+        "title": "Cek kondisi sebelum mandi",
+        "text": "Yang paling penting: kucing dicek dulu sebelum dimandiin. Ada kutu di leher, bulu gimbal di perut, lecet lama di kaki. Harga sama aturan kamarnya berubah sendiri. Foto kondisi sama rinciannya dikirim ke pemilik. Pemilik bales setuju, baru dikerjain. Jadi gak ada drama pas jemput."
+      },
+      {
+        "title": "Papan grooming",
+        "text": "Langsung masuk papan grooming, kelihatan tiap kucing lagi di tahap mana dan selesai jam berapa."
+      },
+      {
+        "title": "Penitipan & kabar pagi",
+        "text": "Kamar penitipan juga kepantau. Kabar pagi ke semua pemilik tinggal sekali klik, yang belum makan ketahan dulu."
+      },
+      {
+        "title": "Kasir & pengingat pakan",
+        "text": "Di kasir, pas pelanggan jemput, sistem ngingetin pakannya mau habis. Sekalian masuk keranjang, bayar QRIS, struk ke WA."
+      },
+      {
+        "title": "Stok & repack pakan",
+        "text": "Stok pakan juga kepantau. Repack kiloan tinggal tiga, buka satu karung, stoknya nambah dua puluh dan untungnya kehitung."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi groomer sama penjaga kamar bisa pakai dari mana aja."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/pet-shop/cover.webp",
+    "images": [
+      "/demos/pet-shop/01-ringkasan-desktop.webp",
+      "/demos/pet-shop/02-cek-kondisi-desktop.webp",
+      "/demos/pet-shop/03-chat-desktop.webp",
+      "/demos/pet-shop/04-grooming-desktop.webp",
+      "/demos/pet-shop/05-kasir-desktop.webp",
+      "/demos/pet-shop/06-penitipan-desktop.webp",
+      "/demos/pet-shop/07-flow-01-ringkasan-awal.webp",
+      "/demos/pet-shop/08-flow-03-cek-hitung.webp",
+      "/demos/pet-shop/09-flow-04-cek-disetujui.webp",
+      "/demos/pet-shop/10-flow-06-penitipan-awal.webp",
+      "/demos/pet-shop/11-flow-08-ringkasan-akhir.webp",
+      "/demos/pet-shop/12-flow-09-kasir-banner.webp",
+      "/demos/pet-shop/13-flow-11-ringkasan-omzet.webp",
+      "/demos/pet-shop/14-flow-13-grooming-jadwal.webp",
+      "/demos/pet-shop/15-flow-14-cek-gak-muat.webp",
+      "/demos/pet-shop/16-flow-16-chat.webp",
+      "/demos/pet-shop/17-ringkasan-mobile.webp",
+      "/demos/pet-shop/18-cek-kondisi-mobile.webp",
+      "/demos/pet-shop/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/pet-shop/t/01-ringkasan-desktop.webp",
+      "/demos/pet-shop/t/02-cek-kondisi-desktop.webp",
+      "/demos/pet-shop/t/03-chat-desktop.webp",
+      "/demos/pet-shop/t/04-grooming-desktop.webp",
+      "/demos/pet-shop/t/05-kasir-desktop.webp",
+      "/demos/pet-shop/t/06-penitipan-desktop.webp",
+      "/demos/pet-shop/t/07-flow-01-ringkasan-awal.webp",
+      "/demos/pet-shop/t/08-flow-03-cek-hitung.webp",
+      "/demos/pet-shop/t/09-flow-04-cek-disetujui.webp",
+      "/demos/pet-shop/t/10-flow-06-penitipan-awal.webp",
+      "/demos/pet-shop/t/11-flow-08-ringkasan-akhir.webp",
+      "/demos/pet-shop/t/12-flow-09-kasir-banner.webp",
+      "/demos/pet-shop/t/13-flow-11-ringkasan-omzet.webp",
+      "/demos/pet-shop/t/14-flow-13-grooming-jadwal.webp",
+      "/demos/pet-shop/t/15-flow-14-cek-gak-muat.webp",
+      "/demos/pet-shop/t/16-flow-16-chat.webp",
+      "/demos/pet-shop/t/17-ringkasan-mobile.webp",
+      "/demos/pet-shop/t/18-cek-kondisi-mobile.webp",
+      "/demos/pet-shop/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "sales-kanvas",
+    "name": "Sambang Niaga",
+    "niche": "Sales kanvas / distributor",
+    "tagline": "Kunjungan toko, order di tempat, tagihan",
+    "about": "Aplikasi HP manajemen sales kanvas / distributor untuk Sambang Niaga, mencakup kunjungan toko, order di tempat, tagihan.",
+    "features": [
+      {
+        "title": "Rute sales hari ini",
+        "text": "Di HP sales, rute hari ini udah urut. Toko berikutnya langsung kelihatan, termasuk yang bonnya udah lewat tempo."
+      },
+      {
+        "title": "Cek rak, order dari yang laku",
+        "text": "Sampai toko, sales hitung sisa barang di rak. Yang laku kehitung sendiri, dan yang laku pelan gak bakal ditambah. Jadi gak ada lagi barang dititip paksa."
+      },
+      {
+        "title": "Tempo dikunci plafon",
+        "text": "Mau tempo lagi? Dikunci dulu: nota lama udah lewat tempo, dan bonnya bakal lewat plafon. Tagih di tempat, lunas, tempo kebuka lagi."
+      },
+      {
+        "title": "Nota langsung ke WA toko",
+        "text": "Notanya jadi sendiri, lengkap sama retur expired dan pelunasan nota lama. Sekali tap, kekirim ke WA toko."
+      },
+      {
+        "title": "Setoran tanpa selisih",
+        "text": "Sore pas setoran, uang yang harus disetor udah dirinci per nota. Hitung lembarannya, kalau udah cocok baru bisa dikirim ke admin."
+      },
+      {
+        "title": "Ringkasan & piutang pemilik",
+        "text": "Pemilik pantau dari HP: omzet, progres tiap sales, sama piutang yang lewat tempo. Toko yang nunggak tinggal diingetin lewat WA."
+      }
+    ],
+    "platform": "android",
+    "cover": "/demos/sales-kanvas/cover.webp",
+    "images": [
+      "/demos/sales-kanvas/01-ringkasan-android.webp",
+      "/demos/sales-kanvas/02-kunjungan-android.webp",
+      "/demos/sales-kanvas/03-masuk-android.webp",
+      "/demos/sales-kanvas/04-nota-android.webp",
+      "/demos/sales-kanvas/05-piutang-android.webp",
+      "/demos/sales-kanvas/06-rute-android.webp",
+      "/demos/sales-kanvas/07-setoran-android.webp",
+      "/demos/sales-kanvas/08-stok-android.webp"
+    ],
+    "thumbs": [
+      "/demos/sales-kanvas/t/01-ringkasan-android.webp",
+      "/demos/sales-kanvas/t/02-kunjungan-android.webp",
+      "/demos/sales-kanvas/t/03-masuk-android.webp",
+      "/demos/sales-kanvas/t/04-nota-android.webp",
+      "/demos/sales-kanvas/t/05-piutang-android.webp",
+      "/demos/sales-kanvas/t/06-rute-android.webp",
+      "/demos/sales-kanvas/t/07-setoran-android.webp",
+      "/demos/sales-kanvas/t/08-stok-android.webp"
+    ]
+  },
+  {
+    "slug": "servis-hp",
+    "name": "Telaten Cell",
+    "niche": "Toko & servis HP",
+    "tagline": "Tiket servis, sparepart, garansi",
+    "about": "Aplikasi web manajemen toko & servis HP untuk Telaten Cell, mencakup tiket servis, sparepart, garansi.",
+    "features": [
+      {
+        "title": "Ringkasan pemilik",
+        "text": "Begitu buka, kelihatan HP yang ada di konter, janji jadi hari ini, uang masuk, garansi, sampai yang harus ditindak."
+      },
+      {
+        "title": "Cek fungsi sebelum diserahkan",
+        "text": "Yang paling penting: tiap HP dicek dua belas fungsinya waktu masuk, terus dicek lagi sebelum diserahin. Kamera depan tadi normal, sekarang mati? Ketahuan rusak baru, HP gak bisa diserahin dan balik ke teknisi. Teknisi benerin, cek ulang, lolos, segel sama laporannya langsung ke WA pelanggan."
+      },
+      {
+        "title": "Klaim garansi pakai bukti",
+        "text": "Ada yang komplain habis servis sidik jarinya gak bisa? Sistemnya nyocokin sama catatan waktu masuk: ternyata udah rusak dari awal dan pelanggan udah setuju. Jawabnya sopan, pakai bukti."
+      },
+      {
+        "title": "Papan servis",
+        "text": "Semua HP servisan kelihatan di papan: lagi di tahap mana, teknisinya siapa, mana yang mepet atau telat dari janji."
+      },
+      {
+        "title": "Harga ori, OEM, KW dari chat",
+        "text": "Ada yang nanya harga ganti LCD? Tinggal pilih: original, OEM, atau KW, lengkap sama garansi dan stoknya. Pelanggan pilih, langsung jadi tiket servis."
+      },
+      {
+        "title": "Kasir & ambil HP",
+        "text": "Pas HP diambil, sisa bayarnya kehitung, sekalian ditawarin tempered glass. Bayar QRIS, nota sama kartu garansinya ke WA."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi teknisi bisa lihat antrean langsung dari meja bongkar."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/servis-hp/cover.webp",
+    "images": [
+      "/demos/servis-hp/01-ringkasan-desktop.webp",
+      "/demos/servis-hp/02-cek-fungsi-desktop.webp",
+      "/demos/servis-hp/03-chat-desktop.webp",
+      "/demos/servis-hp/04-garansi-desktop.webp",
+      "/demos/servis-hp/05-kasir-desktop.webp",
+      "/demos/servis-hp/06-servis-desktop.webp",
+      "/demos/servis-hp/07-flow-01-ringkasan-awal.webp",
+      "/demos/servis-hp/08-flow-03-cek-awal.webp",
+      "/demos/servis-hp/09-flow-05-cek-balikin.webp",
+      "/demos/servis-hp/10-flow-08-cek-segel-balasan.webp",
+      "/demos/servis-hp/11-flow-10-garansi-wulan.webp",
+      "/demos/servis-hp/12-flow-12-ringkasan-akhir.webp",
+      "/demos/servis-hp/13-flow-14-kasir-qris.webp",
+      "/demos/servis-hp/14-flow-17-chat-harga.webp",
+      "/demos/servis-hp/15-flow-22-garansi-bayu.webp",
+      "/demos/servis-hp/16-flow-24-servis-ingatkan.webp",
+      "/demos/servis-hp/17-ringkasan-mobile.webp",
+      "/demos/servis-hp/18-cek-fungsi-mobile.webp",
+      "/demos/servis-hp/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/servis-hp/t/01-ringkasan-desktop.webp",
+      "/demos/servis-hp/t/02-cek-fungsi-desktop.webp",
+      "/demos/servis-hp/t/03-chat-desktop.webp",
+      "/demos/servis-hp/t/04-garansi-desktop.webp",
+      "/demos/servis-hp/t/05-kasir-desktop.webp",
+      "/demos/servis-hp/t/06-servis-desktop.webp",
+      "/demos/servis-hp/t/07-flow-01-ringkasan-awal.webp",
+      "/demos/servis-hp/t/08-flow-03-cek-awal.webp",
+      "/demos/servis-hp/t/09-flow-05-cek-balikin.webp",
+      "/demos/servis-hp/t/10-flow-08-cek-segel-balasan.webp",
+      "/demos/servis-hp/t/11-flow-10-garansi-wulan.webp",
+      "/demos/servis-hp/t/12-flow-12-ringkasan-akhir.webp",
+      "/demos/servis-hp/t/13-flow-14-kasir-qris.webp",
+      "/demos/servis-hp/t/14-flow-17-chat-harga.webp",
+      "/demos/servis-hp/t/15-flow-22-garansi-bayu.webp",
+      "/demos/servis-hp/t/16-flow-24-servis-ingatkan.webp",
+      "/demos/servis-hp/t/17-ringkasan-mobile.webp",
+      "/demos/servis-hp/t/18-cek-fungsi-mobile.webp",
+      "/demos/servis-hp/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "homestay",
+    "name": "Omah Lereng",
+    "niche": "Homestay & villa",
+    "tagline": "Kalender booking, check-in, housekeeping",
+    "about": "Aplikasi web manajemen homestay & villa untuk Omah Lereng, mencakup kalender booking, check-in, housekeeping.",
+    "features": [
+      {
+        "title": "Papan pergantian kamar",
+        "text": "Tiap pagi kelihatan kamar mana yang tamunya keluar, siapa yang bersihin, jam berapa siap, dan tamu berikutnya datang jam berapa."
+      },
+      {
+        "title": "Tamu minta check-in awal",
+        "text": "Tamu chat: udah deket, boleh masuk lebih awal? Kamarnya baru siap jam satu kurang. Sistem nyariin kamar setipe yang udah siap, dan booking besok yang ngalangin digeser sendiri. Tamu langsung masuk, gak pindah-pindah kamar."
+      },
+      {
+        "title": "Checkout siang",
+        "text": "Bonusnya, kamar yang tadi jadi kosong malam ini. Tamu yang minta checkout jam dua, tadinya gak bisa, sekarang bisa, plus biaya seratus ribu."
+      },
+      {
+        "title": "Satu kalender semua kanal",
+        "text": "Booking dari WA, Traveloka, Tiket.com, Airbnb, sama Booking.com masuk satu kalender. Gak bisa dobel."
+      },
+      {
+        "title": "Booking dari chat",
+        "text": "Ada yang nanya villa kosong? Sekali klik kelihatan yang kosong sama harganya. Kunci tanggalnya, DP masuk, konfirmasi, langsung ditutup di semua OTA."
+      },
+      {
+        "title": "Check-in tamu",
+        "text": "Tamu datang, check-in rapi: KTP, sisa bayar, deposit, info wifi langsung ke WA."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan bisa dibuka dari HP, jadi petugas kebersihan tau kamar mana duluan, tinggal centang terus tandai siap."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/homestay/cover.webp",
+    "images": [
+      "/demos/homestay/01-ringkasan-desktop.webp",
+      "/demos/homestay/02-chat-desktop.webp",
+      "/demos/homestay/03-hari-ini-desktop.webp",
+      "/demos/homestay/04-kalender-desktop.webp",
+      "/demos/homestay/05-kebersihan-desktop.webp",
+      "/demos/homestay/06-tamu-desktop.webp",
+      "/demos/homestay/07-flow-01-hari-ini-awal.webp",
+      "/demos/homestay/08-flow-04-awal-modal-sebelum.webp",
+      "/demos/homestay/09-flow-07-chat-hendra-sesudah.webp",
+      "/demos/homestay/10-flow-10-ringkasan.webp",
+      "/demos/homestay/11-flow-13-kosong-modal.webp",
+      "/demos/homestay/12-flow-15-chat-rizal-pasti.webp",
+      "/demos/homestay/13-flow-18-checkin-drawer-ktp-tertutup.webp",
+      "/demos/homestay/14-flow-21-tamu-menginap.webp",
+      "/demos/homestay/15-flow-24-checkout-selesai.webp",
+      "/demos/homestay/16-flow-41-kalender-opsi-besok.webp",
+      "/demos/homestay/17-ringkasan-mobile.webp",
+      "/demos/homestay/18-chat-mobile.webp",
+      "/demos/homestay/19-hari-ini-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/homestay/t/01-ringkasan-desktop.webp",
+      "/demos/homestay/t/02-chat-desktop.webp",
+      "/demos/homestay/t/03-hari-ini-desktop.webp",
+      "/demos/homestay/t/04-kalender-desktop.webp",
+      "/demos/homestay/t/05-kebersihan-desktop.webp",
+      "/demos/homestay/t/06-tamu-desktop.webp",
+      "/demos/homestay/t/07-flow-01-hari-ini-awal.webp",
+      "/demos/homestay/t/08-flow-04-awal-modal-sebelum.webp",
+      "/demos/homestay/t/09-flow-07-chat-hendra-sesudah.webp",
+      "/demos/homestay/t/10-flow-10-ringkasan.webp",
+      "/demos/homestay/t/11-flow-13-kosong-modal.webp",
+      "/demos/homestay/t/12-flow-15-chat-rizal-pasti.webp",
+      "/demos/homestay/t/13-flow-18-checkin-drawer-ktp-tertutup.webp",
+      "/demos/homestay/t/14-flow-21-tamu-menginap.webp",
+      "/demos/homestay/t/15-flow-24-checkout-selesai.webp",
+      "/demos/homestay/t/16-flow-41-kalender-opsi-besok.webp",
+      "/demos/homestay/t/17-ringkasan-mobile.webp",
+      "/demos/homestay/t/18-chat-mobile.webp",
+      "/demos/homestay/t/19-hari-ini-mobile.webp"
+    ]
+  },
+  {
+    "slug": "wedding-organizer",
+    "name": "Janur Sigap",
+    "niche": "Wedding organizer & dekorasi",
+    "tagline": "Timeline acara, vendor, pembayaran termin",
+    "about": "Aplikasi web manajemen wedding organizer & dekorasi untuk Janur Sigap, mencakup timeline acara, vendor, pembayaran termin.",
+    "features": [
+      {
+        "title": "Papan acara",
+        "text": "Satu layar: semua acara yang jalan, dana klien yang dipegang, dan daftar yang harus ditindak."
+      },
+      {
+        "title": "Cari pengganti vendor",
+        "text": "Vendor rias tiba-tiba sakit seminggu sebelum acara? Chat-nya langsung jadi kartu. Sekali klik, sistem nyari pengganti yang kosong di tanggal itu, gayanya cocok, lengkap sama selisih biaya dan dampak ke margin."
+      },
+      {
+        "title": "Laporan dana ke klien",
+        "text": "Klien lagi parno soal berita WO kabur dan nanya uangnya udah sampai ke vendor belum? Satu klik, laporan dana ke klien jadi: yang sudah dibayar ke vendor, sisanya, dan dana yang masih dipegang."
+      },
+      {
+        "title": "Dana per acara",
+        "text": "Tiap acara punya dana sendiri: yang masuk, yang udah ke vendor, yang masih dipegang. Dana satu acara gak bisa dipakai nutup vendor acara lain."
+      },
+      {
+        "title": "Kalender vendor",
+        "text": "Kalender semua vendor rekanan: siapa kosong, siapa dipakai acara sendiri, siapa dipakai WO lain. Calon klien tanya tanggal, tinggal cek."
+      },
+      {
+        "title": "Rundown hari H",
+        "text": "Rundown hari H jadi otomatis, lengkap sama jam berangkat tiap vendor. Satu klik, minta konfirmasi ke semuanya."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi koordinator di lapangan tinggal buka rundown."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/wedding-organizer/cover.webp",
+    "images": [
+      "/demos/wedding-organizer/01-ringkasan-desktop.webp",
+      "/demos/wedding-organizer/02-acara-desktop.webp",
+      "/demos/wedding-organizer/03-chat-desktop.webp",
+      "/demos/wedding-organizer/04-pembayaran-desktop.webp",
+      "/demos/wedding-organizer/05-rundown-desktop.webp",
+      "/demos/wedding-organizer/06-vendor-desktop.webp",
+      "/demos/wedding-organizer/07-flow-01-acara-awal.webp",
+      "/demos/wedding-organizer/08-flow-04-pengganti-modal.webp",
+      "/demos/wedding-organizer/09-flow-07-chat-salsabila.webp",
+      "/demos/wedding-organizer/10-flow-10-pembayaran.webp",
+      "/demos/wedding-organizer/11-flow-13-ringkasan-sesudah.webp",
+      "/demos/wedding-organizer/12-flow-16-chat-dinda-bukti.webp",
+      "/demos/wedding-organizer/13-flow-19-cek-tanggal-bisa.webp",
+      "/demos/wedding-organizer/14-flow-22-vendor-ditahan.webp",
+      "/demos/wedding-organizer/15-flow-25-pengganti-dekorasi-ramah.webp",
+      "/demos/wedding-organizer/16-flow-28-pembayaran-termin-telat.webp",
+      "/demos/wedding-organizer/17-ringkasan-mobile.webp",
+      "/demos/wedding-organizer/18-acara-mobile.webp",
+      "/demos/wedding-organizer/19-chat-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/wedding-organizer/t/01-ringkasan-desktop.webp",
+      "/demos/wedding-organizer/t/02-acara-desktop.webp",
+      "/demos/wedding-organizer/t/03-chat-desktop.webp",
+      "/demos/wedding-organizer/t/04-pembayaran-desktop.webp",
+      "/demos/wedding-organizer/t/05-rundown-desktop.webp",
+      "/demos/wedding-organizer/t/06-vendor-desktop.webp",
+      "/demos/wedding-organizer/t/07-flow-01-acara-awal.webp",
+      "/demos/wedding-organizer/t/08-flow-04-pengganti-modal.webp",
+      "/demos/wedding-organizer/t/09-flow-07-chat-salsabila.webp",
+      "/demos/wedding-organizer/t/10-flow-10-pembayaran.webp",
+      "/demos/wedding-organizer/t/11-flow-13-ringkasan-sesudah.webp",
+      "/demos/wedding-organizer/t/12-flow-16-chat-dinda-bukti.webp",
+      "/demos/wedding-organizer/t/13-flow-19-cek-tanggal-bisa.webp",
+      "/demos/wedding-organizer/t/14-flow-22-vendor-ditahan.webp",
+      "/demos/wedding-organizer/t/15-flow-25-pengganti-dekorasi-ramah.webp",
+      "/demos/wedding-organizer/t/16-flow-28-pembayaran-termin-telat.webp",
+      "/demos/wedding-organizer/t/17-ringkasan-mobile.webp",
+      "/demos/wedding-organizer/t/18-acara-mobile.webp",
+      "/demos/wedding-organizer/t/19-chat-mobile.webp"
+    ]
+  },
+  {
+    "slug": "bank-sampah",
+    "name": "Bank Sampah Pilah Rejeki",
+    "niche": "Bank sampah",
+    "tagline": "Setoran nasabah, saldo tabungan, penjualan ke pengepul",
+    "about": "Aplikasi web manajemen bank sampah untuk Bank Sampah Pilah Rejeki, mencakup setoran nasabah, saldo tabungan, penjualan ke pengepul.",
+    "features": [
+      {
+        "title": "Timbang & slip WA",
+        "text": "Nasabah datang, pilih jenis sampah, isi berat. Totalnya langsung jadi, slip dan saldonya kekirim ke WA nasabah."
+      },
+      {
+        "title": "Harga pengepul turun",
+        "text": "Pengepul langganan nurunin harga, padahal stok di gudang dibeli pakai harga lama. Sekali klik, kelihatan jenis yang nombok dan pengepul yang masih bayar lebih tinggi, tanpa motong harga nasabah."
+      },
+      {
+        "title": "Gudang & timbangan pengepul",
+        "text": "Pas truk pengepul datang, hasil timbangnya dicatat. Kalau susutnya lewat tiga persen, langsung ketahuan, timbang ulang."
+      },
+      {
+        "title": "Buku tabungan nasabah",
+        "text": "Buku tabungan nasabah gak di kertas lagi. Saldo, setoran, dan tarikan kelihatan, rincian saldo tinggal kirim ke WA."
+      },
+      {
+        "title": "Laporan pengelola",
+        "text": "Laporan pengelola: uang tabungan nasabah selalu cocok sama rekening plus stok gudang."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, jadi petugas timbang gak harus duduk di depan laptop."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/bank-sampah/cover.webp",
+    "images": [
+      "/demos/bank-sampah/01-chat-desktop.webp",
+      "/demos/bank-sampah/02-gudang-desktop.webp",
+      "/demos/bank-sampah/03-harga-desktop.webp",
+      "/demos/bank-sampah/04-laporan-desktop.webp",
+      "/demos/bank-sampah/05-nasabah-desktop.webp",
+      "/demos/bank-sampah/06-timbang-desktop.webp",
+      "/demos/bank-sampah/07-flow-01-timbang-awal.webp",
+      "/demos/bank-sampah/08-flow-04-slip-balasan.webp",
+      "/demos/bank-sampah/09-flow-07-cek-dampak.webp",
+      "/demos/bank-sampah/10-flow-10-chat-pak-anton.webp",
+      "/demos/bank-sampah/11-flow-13-timbangan-lewat-batas.webp",
+      "/demos/bank-sampah/12-flow-16-gudang-setelah-jual.webp",
+      "/demos/bank-sampah/13-flow-19-chat-tarik.webp",
+      "/demos/bank-sampah/14-flow-22-tarik-lebaran-ditolak.webp",
+      "/demos/bank-sampah/15-flow-25-daftar-nasabah.webp",
+      "/demos/bank-sampah/16-flow-28-gudang-akhir.webp",
+      "/demos/bank-sampah/17-chat-mobile.webp",
+      "/demos/bank-sampah/18-gudang-mobile.webp",
+      "/demos/bank-sampah/19-harga-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/bank-sampah/t/01-chat-desktop.webp",
+      "/demos/bank-sampah/t/02-gudang-desktop.webp",
+      "/demos/bank-sampah/t/03-harga-desktop.webp",
+      "/demos/bank-sampah/t/04-laporan-desktop.webp",
+      "/demos/bank-sampah/t/05-nasabah-desktop.webp",
+      "/demos/bank-sampah/t/06-timbang-desktop.webp",
+      "/demos/bank-sampah/t/07-flow-01-timbang-awal.webp",
+      "/demos/bank-sampah/t/08-flow-04-slip-balasan.webp",
+      "/demos/bank-sampah/t/09-flow-07-cek-dampak.webp",
+      "/demos/bank-sampah/t/10-flow-10-chat-pak-anton.webp",
+      "/demos/bank-sampah/t/11-flow-13-timbangan-lewat-batas.webp",
+      "/demos/bank-sampah/t/12-flow-16-gudang-setelah-jual.webp",
+      "/demos/bank-sampah/t/13-flow-19-chat-tarik.webp",
+      "/demos/bank-sampah/t/14-flow-22-tarik-lebaran-ditolak.webp",
+      "/demos/bank-sampah/t/15-flow-25-daftar-nasabah.webp",
+      "/demos/bank-sampah/t/16-flow-28-gudang-akhir.webp",
+      "/demos/bank-sampah/t/17-chat-mobile.webp",
+      "/demos/bank-sampah/t/18-gudang-mobile.webp",
+      "/demos/bank-sampah/t/19-harga-mobile.webp"
+    ]
+  },
+  {
+    "slug": "toko-pertanian",
+    "name": "Panen Tenang",
+    "niche": "Toko pertanian (pupuk & obat tani)",
+    "tagline": "Bon petani dibayar pas panen, stok musim tanam, saran obat per hama",
+    "about": "Aplikasi web manajemen toko pertanian (pupuk & obat tani) untuk Panen Tenang, mencakup bon petani dibayar pas panen, stok musim tanam, saran obat per hama.",
+    "features": [
+      {
+        "title": "Kasir & jatah subsidi",
+        "text": "Petani datang, jatah pupuk subsidinya dan limit bonnya langsung kelihatan. Minta lebih dari jatah, langsung ditolak."
+      },
+      {
+        "title": "Saran obat per hama",
+        "text": "Petani nanya obat lewat WA. Sistem kasih saran dari stok sendiri: bahan aktif yang baru dipakai dihindari biar hama gak kebal, masa tunggu panen dicek, jumlahnya dihitung dari luas sawah."
+      },
+      {
+        "title": "Bon musim",
+        "text": "Bon petani dicatat per musim, jatuh tempo ngikutin estimasi panen. Yang udah lewat panen ditagih sekali klik lewat WA."
+      },
+      {
+        "title": "Bayar pakai hasil panen",
+        "text": "Petani mau bayar bon pakai gabah? Tinggal isi kilonya, nilainya langsung dihitung dan bonnya lunas."
+      },
+      {
+        "title": "Kebutuhan pupuk",
+        "text": "Pupuk minggu depan dihitung dari umur tanaman tiap sawah. Urea kurang, tinggal pesan ke distributor."
+      },
+      {
+        "title": "Stok & kedaluwarsa",
+        "text": "Stok obat dicatat per batch, yang hampir kedaluwarsa dijual duluan."
+      },
+      {
+        "title": "Laporan pemilik",
+        "text": "Laporan pemilik: kelihatan uang bon bakal masuk minggu keberapa."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan kasir bisa buka kasir, chat, dan bon dari HP."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/toko-pertanian/cover.webp",
+    "images": [
+      "/demos/toko-pertanian/01-bon-desktop.webp",
+      "/demos/toko-pertanian/02-chat-desktop.webp",
+      "/demos/toko-pertanian/03-kasir-desktop.webp",
+      "/demos/toko-pertanian/04-laporan-desktop.webp",
+      "/demos/toko-pertanian/05-musim-desktop.webp",
+      "/demos/toko-pertanian/06-stok-desktop.webp",
+      "/demos/toko-pertanian/07-flow-01-kasir-awal.webp",
+      "/demos/toko-pertanian/08-flow-04-saran-terkirim.webp",
+      "/demos/toko-pertanian/09-flow-07-po.webp",
+      "/demos/toko-pertanian/10-flow-10-batch.webp",
+      "/demos/toko-pertanian/11-flow-13-bayar-terkirim.webp",
+      "/demos/toko-pertanian/12-flow-15-saran-wiwik.webp",
+      "/demos/toko-pertanian/13-flow-18-kasir-sunarti.webp",
+      "/demos/toko-pertanian/14-flow-21-struk.webp",
+      "/demos/toko-pertanian/15-flow-24-chat-marsudi.webp",
+      "/demos/toko-pertanian/16-flow-27-bon-sesudah-tunda.webp",
+      "/demos/toko-pertanian/17-bon-mobile.webp",
+      "/demos/toko-pertanian/18-chat-mobile.webp",
+      "/demos/toko-pertanian/19-kasir-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/toko-pertanian/t/01-bon-desktop.webp",
+      "/demos/toko-pertanian/t/02-chat-desktop.webp",
+      "/demos/toko-pertanian/t/03-kasir-desktop.webp",
+      "/demos/toko-pertanian/t/04-laporan-desktop.webp",
+      "/demos/toko-pertanian/t/05-musim-desktop.webp",
+      "/demos/toko-pertanian/t/06-stok-desktop.webp",
+      "/demos/toko-pertanian/t/07-flow-01-kasir-awal.webp",
+      "/demos/toko-pertanian/t/08-flow-04-saran-terkirim.webp",
+      "/demos/toko-pertanian/t/09-flow-07-po.webp",
+      "/demos/toko-pertanian/t/10-flow-10-batch.webp",
+      "/demos/toko-pertanian/t/11-flow-13-bayar-terkirim.webp",
+      "/demos/toko-pertanian/t/12-flow-15-saran-wiwik.webp",
+      "/demos/toko-pertanian/t/13-flow-18-kasir-sunarti.webp",
+      "/demos/toko-pertanian/t/14-flow-21-struk.webp",
+      "/demos/toko-pertanian/t/15-flow-24-chat-marsudi.webp",
+      "/demos/toko-pertanian/t/16-flow-27-bon-sesudah-tunda.webp",
+      "/demos/toko-pertanian/t/17-bon-mobile.webp",
+      "/demos/toko-pertanian/t/18-chat-mobile.webp",
+      "/demos/toko-pertanian/t/19-kasir-mobile.webp"
+    ]
+  },
+  {
+    "slug": "renovasi",
+    "name": "Griya Tuntas",
+    "niche": "Kontraktor renovasi rumah",
+    "tagline": "RAB, termin pembayaran, laporan progres foto mandor",
+    "about": "Aplikasi web manajemen kontraktor renovasi rumah untuk Griya Tuntas, mencakup rAB, termin pembayaran, laporan progres foto mandor.",
+    "features": [
+      {
+        "title": "Papan proyek",
+        "text": "Lima proyek sekaligus: progres fisik dibanding rencana, termin berikutnya, sama laporan mandor hari ini."
+      },
+      {
+        "title": "Kerja tambah, klien setuju dulu",
+        "text": "Klien minta ganti granit sama tambah stop kontak lewat WA. Sistem ngecek RAB dan laporan mandor: keramik lama belum dipasang, jadi dikurangi penuh. Selisih, nilai kontrak baru, mundur dua hari, dan DP-nya langsung kelihatan."
+      },
+      {
+        "title": "RAB & kerja tambah-kurang",
+        "text": "Klien bales setuju, RAB langsung berubah, dan mandor otomatis dikabarin biar keramik lama gak terlanjur dipasang."
+      },
+      {
+        "title": "Termin & tagihan",
+        "text": "DP kerja tambahnya langsung jadi tagihan. Bukti transfer masuk, tinggal konfirmasi."
+      },
+      {
+        "title": "Laporan harian mandor",
+        "text": "Mandor kirim laporan foto. Diterima, progres proyek dihitung dari bobot RAB: lewat lima puluh persen, termin dua langsung bisa ditagih pakai foto."
+      },
+      {
+        "title": "Kas proyek & upah Sabtu",
+        "text": "Biaya tiap proyek dibanding anggaran. Material udah kebeli banyak padahal progres baru dua belas persen? Langsung ditandai. Upah Sabtu juga kehitung, kasbon kepotong sendiri."
+      },
+      {
+        "title": "Bisa dibuka dari HP",
+        "text": "Dan semuanya bisa dibuka dari HP, pas lagi keliling proyek."
+      }
+    ],
+    "platform": "web",
+    "cover": "/demos/renovasi/cover.webp",
+    "images": [
+      "/demos/renovasi/01-chat-desktop.webp",
+      "/demos/renovasi/02-harian-desktop.webp",
+      "/demos/renovasi/03-kas-desktop.webp",
+      "/demos/renovasi/04-proyek-desktop.webp",
+      "/demos/renovasi/05-rab-desktop.webp",
+      "/demos/renovasi/06-termin-desktop.webp",
+      "/demos/renovasi/07-flow-01-proyek-awal.webp",
+      "/demos/renovasi/08-flow-03-modal-kt.webp",
+      "/demos/renovasi/09-flow-05-rab-kt.webp",
+      "/demos/renovasi/10-flow-07-termin-kt.webp",
+      "/demos/renovasi/11-flow-09-termin-lunas.webp",
+      "/demos/renovasi/12-flow-10-harian-darmaji.webp",
+      "/demos/renovasi/13-flow-12-harian-diterima.webp",
+      "/demos/renovasi/14-flow-14-modal-kasbon.webp",
+      "/demos/renovasi/15-flow-16-kas.webp",
+      "/demos/renovasi/16-flow-18-harian-belum-masuk.webp",
+      "/demos/renovasi/17-chat-mobile.webp",
+      "/demos/renovasi/18-harian-mobile.webp",
+      "/demos/renovasi/19-kas-mobile.webp"
+    ],
+    "thumbs": [
+      "/demos/renovasi/t/01-chat-desktop.webp",
+      "/demos/renovasi/t/02-harian-desktop.webp",
+      "/demos/renovasi/t/03-kas-desktop.webp",
+      "/demos/renovasi/t/04-proyek-desktop.webp",
+      "/demos/renovasi/t/05-rab-desktop.webp",
+      "/demos/renovasi/t/06-termin-desktop.webp",
+      "/demos/renovasi/t/07-flow-01-proyek-awal.webp",
+      "/demos/renovasi/t/08-flow-03-modal-kt.webp",
+      "/demos/renovasi/t/09-flow-05-rab-kt.webp",
+      "/demos/renovasi/t/10-flow-07-termin-kt.webp",
+      "/demos/renovasi/t/11-flow-09-termin-lunas.webp",
+      "/demos/renovasi/t/12-flow-10-harian-darmaji.webp",
+      "/demos/renovasi/t/13-flow-12-harian-diterima.webp",
+      "/demos/renovasi/t/14-flow-14-modal-kasbon.webp",
+      "/demos/renovasi/t/15-flow-16-kas.webp",
+      "/demos/renovasi/t/16-flow-18-harian-belum-masuk.webp",
+      "/demos/renovasi/t/17-chat-mobile.webp",
+      "/demos/renovasi/t/18-harian-mobile.webp",
+      "/demos/renovasi/t/19-kas-mobile.webp"
+    ]
+  }
+]

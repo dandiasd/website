@@ -4,6 +4,9 @@ import { useState } from "react";
 import SectionHeading from "@/components/SectionHeading";
 import ProjectCard from "@/components/ProjectCard";
 import VideoModal from "@/components/VideoModal";
+import DemoCard, { type Demo } from "@/components/DemoCard";
+import DemoGallery from "@/components/DemoGallery";
+import demos from "@/data/demos.json";
 import TrackedWhatsAppLink from "@/components/TrackedWhatsAppLink";
 import { captureAnalyticsEvent } from "@/lib/analytics";
 
@@ -30,6 +33,7 @@ const projects = [
 
 export default function Portfolio() {
   const [selectedProject, setSelectedProject] = useState<number | null>(null);
+  const [selectedDemo, setSelectedDemo] = useState<Demo | null>(null);
 
   const openProjectDemo = (index: number) => {
     const project = projects[index];
@@ -39,6 +43,16 @@ export default function Portfolio() {
       project_position: index + 1,
     });
     setSelectedProject(index);
+  };
+
+  const openDemo = (demo: Demo, index: number) => {
+    captureAnalyticsEvent("portfolio demo opened", {
+      project_name: demo.name,
+      project_position: index + 1,
+      demo_slug: demo.slug,
+      section: "demo_sistem",
+    });
+    setSelectedDemo(demo);
   };
 
   return (
@@ -61,6 +75,18 @@ export default function Portfolio() {
             ))}
           </div>
 
+          <div className="mt-24">
+            <SectionHeading
+              title="Demo Sistem"
+              subtitle="Contoh sistem untuk berbagai jenis usaha, menggunakan data contoh. Klik untuk lihat tampilannya."
+            />
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
+              {(demos as Demo[]).map((demo, i) => (
+                <DemoCard key={demo.slug} demo={demo} onOpen={() => openDemo(demo, i)} />
+              ))}
+            </div>
+          </div>
+
           <div className="text-center mt-16">
             <p className="text-slate-500 mb-4">
               Tertarik bikin project serupa?
@@ -76,6 +102,8 @@ export default function Portfolio() {
           </div>
         </div>
       </section>
+
+      <DemoGallery demo={selectedDemo} onClose={() => setSelectedDemo(null)} />
 
       <VideoModal
         isOpen={selectedProject !== null}
