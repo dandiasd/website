@@ -42,7 +42,7 @@ export default function DataDeletion() {
         <h2 className={h2}>If you connected your Threads account (app owner)</h2>
         <ol className={`${p} list-decimal pl-6 space-y-2`}>
           <li>
-            In Threads, go to <strong>Settings → Account → Website permissions</strong> and remove
+            In Threads, go to <strong>Settings → Account → Website permissions</strong>{" "}and remove
             &ldquo;dandi-bit&rdquo;. This revokes the app&apos;s access immediately.
           </li>
           <li>

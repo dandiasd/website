@@ -25,11 +25,11 @@ export default function Privacy() {
         <h2 className={h2}>Data we access</h2>
         <ul className={`${p} list-disc pl-6 space-y-2`}>
           <li>
-            <strong>Connected account (threads_basic):</strong> the Threads user ID and username of the
+            <strong>Connected account (threads_basic):</strong>{" "}the Threads user ID and username of the
             owner&apos;s own account that is connected to the app.
           </li>
           <li>
-            <strong>Public posts (threads_keyword_search):</strong> public Threads posts returned by keyword
+            <strong>Public posts (threads_keyword_search):</strong>{" "}public Threads posts returned by keyword
             searches, such as the post text, link, timestamp and the author&apos;s public username.
           </li>
         </ul>
