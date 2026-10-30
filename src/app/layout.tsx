@@ -20,7 +20,8 @@ const openSans = Open_Sans({
 export const metadata: Metadata = {
   title: "Dandi | Software Engineer",
   description: "Saya bantu bisnis Anda berkembang lewat teknologi — custom web application development untuk bisnis kecil.",
-  other: { "facebook-domain-verification": "ys9mx79y8ht5b337h15fp85rtmuyyo" },
+  // One code per Meta domain entry: www.dandi-bit.web.id, website-production-f85c.up.railway.app
+  other: { "facebook-domain-verification": ["ys9mx79y8ht5b337h15fp85rtmuyyo", "i8skylhe1h4wjakhv8pu9ugj0tjpe8"] },
 };
 
 export default function RootLayout({
